@@ -2,13 +2,13 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="23730276" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/fast-cat-cat-excited-jumping-gif-23730276">Fast Cat Cat Excited Sticker</a>from <a href="https://tenor.com/search/fast+cat-stickers">Fast Cat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ###
 
 <div align="left">
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+   
           
 </div>
 
