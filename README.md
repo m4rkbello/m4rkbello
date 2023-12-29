@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Ryan<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /></h1>
+<h1 align="center">Hi, I'm M4rk<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /></h1>
 
 <div align="center">
   
@@ -13,7 +13,7 @@
 
 <h2 align="left">About Me</h2>
 
-- 💼 Currently working as a **SAP ABAP Developer.**
+- 💼 Currently working as a **Junior System Analyst and Full-Stack Web Development**
 - 💼 Worked as a **Freelance Web Developer (Full-Stack).**
 - 🌱 I’m currently learning **MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
