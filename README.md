@@ -14,15 +14,14 @@
 <h2 align="left">About Me</h2>
 
 - 💼 Currently working as a **Junior System Analyst and Full-Stack Web Development**
-- 💼 Worked as a **Freelance Web Developer (Full-Stack).**
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **HYBRID FULLSTACK WEB APP(REACTJS, REDUX, AXIOS, LARAVEL, MYSQL AND MERN Stack.**
 - 🔍 Looking for more connections in **IT Industry**.
-- 🥅 2023 Goals: Learn more about **MERN Stack.**
-- 👀 All my projects are available in my **[WEB PORTFOLIO](https://christianlepio.github.io/prtflio/)**.
+- 🥅 2023 Goals: Learn more about **NEXTJS, BUN, LARAVEL AND MERN Stack.**
+- 👀 All my projects are available in my **[WEB PORTFOLIO](https://github.com/m4rkbello)**.
 
 <h2 align="left">Connect with Me</h2>
 <div align="left">
-  <a href="mailto:rylepio79@gmail.com" target="_blank">
+  <a href="mailto:markamarcortejopanesbello@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://linkedin.com/in/ryan-christian-lepio-b74885234" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
@@ -62,7 +61,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="5" />
-  <img src="https://logodix.com/logo/80119.png" height="40" width="96" alt="SAP ABAP"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
