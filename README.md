@@ -9,8 +9,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="christianlepio" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianlepio&label=Profile%20views&color=0e75b6&style=flat" alt="m4rkbello" /> </p>
+<iframe src="https://giphy.com/embed/vrxxqQbyRxYi6scCjT" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-cartoon-tom-bug-vrxxqQbyRxYi6scCjT">via GIPHY</a></p>
 <h2 align="left">About Me</h2>
 
 - 💼 Currently working as a **Junior System Analyst and Full-Stack Web Development**
