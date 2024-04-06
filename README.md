@@ -2,18 +2,16 @@
 
 - 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
 - 🌱 I’m currently knew but repeatedly want to learn abouts
-- Style and Layout:
-- ->Cascading Style Sheet
-- ->TailwindCSS
-
-- JavaScript:
-- ->Javascipt
-- ->Vanilla,
-- ->Javascipt DOM,
-- ->JavaScript(ES6)
-
-- **Html, CSS, TypeScript, ReactJS, Redux, Zustand, NextJS, TailwindCSS, DaisyUI, ShadCN, Php, Laravel, Express, NodeJS**
-
+- Html: 
+- CSS Framework: Bootstrap, MaterialUI, TailwindCSS
+- TailwindCSS Framework: DaisyUI, ShadCN
+- JavaScript: Javascipt Vanilla, Javascipt DOM, JavaScript(ES6)
+- JavaScript Libraries and Frameworks:JQuery(Ajax), ReactJS, NextJS
+- Javascript State Management: Redux, Redux Toolkit, Zustand
+- Javascipt Backends: Express, NodeJS,
+- PHP: Object Oriented Programming
+- PHP Framework: Laravel
+- Databases Management: MYSQL(Sequence Query Language), MongoDB(No-SQL)
 
 - 💬 Ask me about **Javascript Vanilla, CSS, ReactJS, Laravel**
 - 📫 How to reach me **markamarcortejopanesbello@gmail.com**
