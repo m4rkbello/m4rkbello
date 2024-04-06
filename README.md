@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6 8" style="enable-background:new 0 0 6 8;" xml:space="preserve"><defs><style>* { fill: #000 }</style></defs>
-<polygon points="2.8,4 5.4,1.4 4,0 0,4 4,8 5.4,6.6 "/>
-</svg>
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">Mark Bello</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/m4rkbello/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/m4rkbello/" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/m4rkbello/&theme=" alt="https://github.com/m4rkbello/" /></a> </p>
 
 - 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
 - 🌱 I’m currently learning **Html, CSS, Javascipt Vanilla, Javascipt DOM, JQuery(Ajax), JavaScript(ES6),TypeScript, ReactJS, Redux, Zustand, NextJS, TailwindCSS, DaisyUI, ShadCN, Php, Laravel, Express, NodeJS**
