@@ -1,12 +1,18 @@
 
 
 - 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
-- 🌱 I’m currently learning
-- Frontend: Style and Layout
+- 🌱 I’m currently knew but repeatedly want to learn abouts
+- Style and Layout:
 - ->Cascading Style Sheet
 - ->TailwindCSS
 
-- **Html, CSS, Javascipt Vanilla, Javascipt DOM, JQuery(Ajax), JavaScript(ES6),TypeScript, ReactJS, Redux, Zustand, NextJS, TailwindCSS, DaisyUI, ShadCN, Php, Laravel, Express, NodeJS**
+- JavaScript:
+- ->Javascipt
+- ->Vanilla,
+- ->Javascipt DOM,
+- ->JavaScript(ES6)
+
+- **Html, CSS, TypeScript, ReactJS, Redux, Zustand, NextJS, TailwindCSS, DaisyUI, ShadCN, Php, Laravel, Express, NodeJS**
 
 
 - 💬 Ask me about **Javascript Vanilla, CSS, ReactJS, Laravel**
