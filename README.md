@@ -29,6 +29,14 @@
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/@m4rkbello" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@m4rkbello" height="30" width="40" /></a><a href="https://dev.to/https://dev.to/m4rkbello" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://dev.to/m4rkbello" height="30" width="40" /></a></p>
 
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
