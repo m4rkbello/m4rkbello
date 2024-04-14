@@ -1,5 +1,6 @@
 <hr>
-<h1>Hi! I'm M4rk  👨‍💻 I'm not good enough at it but I'm working on it every single day dreaming to be Fullstack Web Developer</h1>
+<h1>Hi! I'm M4rk. 👨‍💻 I'm still learning and improving every single day, dreaming of becoming a Fullstack Web Developer.</h1>
+
 <hr>
 <marquee>
 - 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
