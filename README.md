@@ -1,5 +1,5 @@
 <hr>
-<h1>Hi! I'm M4rk. 👨‍💻 I'm still learning and improving every single day, dreaming of becoming a Fullstack Web Developer.</h1>
+<h1>Hi! I'm M4rk. 👨‍💻 I'm still learning and aiming to improve and to be efficient not only effective, dreaming of becoming a Fullstack Web Developer.</h1>
 
 <hr>
 <marquee>
