@@ -14,15 +14,15 @@
 - JavaScript: Javascipt Vanilla, Javascipt DOM, JavaScript(ES6)
 - JavaScript Libraries and Frameworks:JQuery(Ajax), ReactJS, NextJS
 - Javascript State Management: Redux, Redux Toolkit, Zustand
-- Javascipt Backends: Express, NodeJS,
+- Javascipt Backend: Express, NodeJS,
 - PHP: Object Oriented Programming
 - PHP Framework: Laravel
 - Databases Management: MYSQL(Sequence Query Language), MongoDB(No-SQL)
 
-- 💬 Ask me about **Javascript Vanilla, CSS, ReactJS, Laravel**
+- 💬 Ask me about **Javascript Vanilla, PHP, SQL, HTML, CSS, ReactJS, Laravel**
 - 📫 How to reach me **markamarcortejopanesbello@gmail.com**
 - 👨‍💻 All of my projects are available at **https://m4rkbello3dportfolio.netlify.app/**
-- 📝 I regularly livestreaming on **https://www.youtube.com/@m4rkbello**
+- 📝 I regularly livestreaming on my youtube channel **https://www.youtube.com/@m4rkbello**
 - 📄 Know about my experiences **Also know multimedia tools (Adobe Premiere, Photoshop, **
 - ⚡ Fun fact ** "Easy to learn but easier to forget."**
 
