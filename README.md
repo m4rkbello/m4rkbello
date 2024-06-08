@@ -1,31 +1,6 @@
 <hr>
 <h1>Hi! I'm M4rk. 👨‍💻 I'm still learning and aiming to improve and to be efficient not only effective, dreaming to become a Fullstack Web Developer and Mobile Developer.</h1>
-
 <hr>
-<marquee>
-- 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
-</marquee>
-
-- 🔭 I’m currently working on **Advanced Infinit Technology Solution Inc.**
-- 🌱 I’m currently knew but repeatedly want to learn abouts
-- Html: 
-- CSS Framework: Bootstrap, MaterialUI, TailwindCSS
-- TailwindCSS Framework: DaisyUI, ShadCN
-- JavaScript: Javascipt Vanilla, Javascipt DOM, JavaScript(ES6)
-- JavaScript Libraries and Frameworks:JQuery(Ajax), ReactJS, NextJS
-- Javascript State Management: Redux, Redux Toolkit, Zustand
-- Javascipt Backend: Express, NodeJS,
-- PHP: Object Oriented Programming
-- PHP Framework: Laravel
-- Databases Management: MYSQL(Sequence Query Language), MongoDB(No-SQL)
-
-- 💬 Ask me about **Javascript Vanilla, PHP, SQL, HTML, CSS, ReactJS, Laravel**
-- 📫 How to reach me **markamarcortejopanesbello@gmail.com**
-- 👨‍💻 All of my projects are available at **https://m4rkbello3dportfolio.netlify.app/**
-- 📝 I regularly livestreaming on my youtube channel **https://www.youtube.com/@m4rkbello**
-- 📄 Know about my experiences **Also know multimedia tools (Adobe Premiere, Photoshop, **
-- ⚡ Fun fact ** "Easy to learn but easier to forget."**
-
 <div> <a href="https://github.com/https://github.com/m4rkbello/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:markamarcortejopanesbello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
