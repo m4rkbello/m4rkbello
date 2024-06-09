@@ -48,6 +48,11 @@
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Materialize" width="40" height="40"/>
     
 </p>
+<h3 align="left">JAVSCRIPT FRAMEWORKS, LIBRARIES, PACKAGES</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
+</p>
+<hr>
 <hr>
 <h3 align="left">State Management</h3>
 <p align="left">
