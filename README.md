@@ -49,8 +49,7 @@
 </p>
 <h3 align="left">REACT JS/TS Frameworks, Libraries, Packages, Plugins:</h3>
 <p align="left">
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Materialize" width="40" height="40" />
-    <a href="https://ibb.co/pjLJZYB"><img src="https://i.ibb.co/60Wgbj7/create-React-App-Logo.png" alt="create-React-App-Logo" border="0" width="40" height="40"></a>
+<a href="https://ibb.co/ggrLxtn"><img src="https://i.ibb.co/Lp0X39G/vite.png" alt="vite" border="0" height="100%" width="20%"></a>
 <a href="https://ibb.co/S5zQ357"><img src="https://i.ibb.co/VJsHqJp/nextJS.png" alt="nextJS" border="0" height="100%" width="20%"></a>
     <a href="https://ibb.co/SRhWYMb"><img src="https://i.ibb.co/LnLbjcm/shadcnUI.png" alt="shadcnUI" border="0" height="100%" width="20%"></a>
 </p>
