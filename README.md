@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Tyepscript" width="40" height="40"/>
 </p>
+<hr>
 <h3 align="left">Full-Stack Web: RETADAVEL STACK:</h3>
 <p align="left">
 <a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="20%"></a>
@@ -24,6 +25,7 @@
 <a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="20%"></a>
 <a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0"  height="100%" width="20%"></a>
 </p>
+<hr>
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
 <a href="https://ibb.co/1MvQWdp"><img src="https://i.ibb.co/r370rcL/reactjs.png" alt="reactjs" border="0" height="100%" width="10%"></a>
