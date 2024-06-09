@@ -106,6 +106,6 @@
 <hr>
 <h3 align="left">Server Hosting:</h3>
 <p align="left">
-<a href="https://ibb.co/8bZP7DC"><img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" alt="cpanel-Logo" width="100%" height="20"></a>
-<a href="https://ibb.co/h2nWxj8"><img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" alt="hostingerlogov1" border="0" width="100%" height="20"></a>
+<a href="https://ibb.co/8bZP7DC"><img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" alt="cpanel-Logo"  height="100%" width="20%"></a>
+<a href="https://ibb.co/h2nWxj8"><img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" alt="hostingerlogov1" border="0"  height="100%" width="20%"></a>
 </p>
