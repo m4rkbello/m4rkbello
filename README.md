@@ -21,13 +21,13 @@
 
 <h3 align="left">Full-Stack Web: RETADAVEL STACK:</h3>
 <p align="left">
-<a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/mBHy6jd"><img src="https://i.ibb.co/yR8kW9K/daisyui.png" alt="daisyui" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="10%"></a>
-  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0" height="100%" width="10%"></a>
+<a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/mBHy6jd"><img src="https://i.ibb.co/yR8kW9K/daisyui.png" alt="daisyui" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="20%"></a>
+  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0"  height="100%" width="20%"></a>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
