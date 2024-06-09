@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0" width="40" height="40"></a>
 <a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/GJL025C"><img src="https://i.ibb.co/cvH1Fr2/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
+  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/PjZnk0L"><img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
 <a href="https://ibb.co/5FTfSwr"><img src="https://i.ibb.co/q5BPcVN/mysqlDB.png" alt="mysqlDB" border="0" height="3.5%" width="3.5%"></a>
 </p>
