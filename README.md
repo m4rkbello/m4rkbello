@@ -59,7 +59,8 @@
 <hr>
 <h3 align="left">State Management</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
+  <a href="https://ibb.co/NsNkkJw"><img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" alt="reduxtoolkit" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
 <h3 align="left">Techstack Mobile App(I want to learn)</h3>
