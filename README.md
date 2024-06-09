@@ -60,7 +60,7 @@
 <h3 align="left">State Management</h3>
 <p align="left">
   <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
-  <a href="https://ibb.co/NsNkkJw"><img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" alt="reduxtoolkit" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/NsNkkJw"><img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" alt="reduxtoolki" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
 <h3 align="left">Techstack Mobile App(I want to learn)</h3>
