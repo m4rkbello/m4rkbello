@@ -22,7 +22,7 @@
 <h3 align="left">Full-Stack Web: RETADAVEL STACK:</h3>
 <p align="left">
 <a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="10%"></a>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="10%"></a>
 <a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0" width="40" height="40"></a>
 <a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
