@@ -36,7 +36,6 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/materialize.svg" alt="Materialize" width="40" height="40"/>
       <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Materialize" width="40" height="40"/>
       <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Materialize" width="40" height="40"/>
@@ -53,17 +52,17 @@
 <a href="https://ibb.co/BqrpLSX"><img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" alt="shadcn-UIv1" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
-<h3 align="left">State Management</h3>
+<h3 align="left">State Management:</h3>
 <p align="left">
   <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
 <a href="https://ibb.co/NsNkkJw"><img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" alt="reduxtoolki" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
-<h3 align="left">Techstack Mobile App(I want to learn)</h3>
+<h3 align="left">Tech Stack Mobile App(I want to learn)</h3>
 <p align="left">
   <a href="https://ibb.co/khPFQnL"><img src="https://i.ibb.co/FBdtgvQ/reactnative.png" alt="reactnative" border="0"  height="100%" width="20%"></a>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
 <h3 align="left">JS BACKEND(I want to learn)</h3>
