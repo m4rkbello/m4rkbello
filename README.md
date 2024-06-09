@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0" width="40" height="40"></a>
     <a href="https://ibb.co/K9vjpg3"><img src="https://i.ibb.co/gDKML8B/axios.png" alt="axios" border="0" height="100%" width="10%" ></a>
-    <a href="https://ibb.co/N1KW8wN"><img src="https://i.ibb.co/Q8MY2sH/redux.png" alt="redux" border="0"  height="100%" width="10%"></a>
+<a href="https://ibb.co/GJL025C"><img src="https://i.ibb.co/cvH1Fr2/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
