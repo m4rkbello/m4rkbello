@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://ibb.co/jfDLYn2">
-        <img src="https://i.ibb.co/xL6Mbx0/m4rk.png" alt="m4rk" border="0">
+        <img src="https://i.ibb.co/xL6Mbx0/m4rk.png" alt="m4rk" border="0" style="text-align: center;">
     </a>
 </div>
 <hr>
