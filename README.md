@@ -24,6 +24,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0"></a>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
