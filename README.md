@@ -52,7 +52,7 @@
    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Materialize" width="40" height="40" />
     <a href="https://ibb.co/pjLJZYB"><img src="https://i.ibb.co/60Wgbj7/create-React-App-Logo.png" alt="create-React-App-Logo" border="0" width="40" height="40"></a>
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Materialize" width="40" height="40" />
-    <a href="https://ibb.co/SRhWYMb"><img src="https://i.ibb.co/LnLbjcm/shadcnUI.png" alt="shadcnUI" border="0"></a>
+    <a href="https://ibb.co/SRhWYMb"><img src="https://i.ibb.co/LnLbjcm/shadcnUI.png" alt="shadcnUI" border="0" width="40" height="40"></a>
 </p>
 <hr>
 <hr>
