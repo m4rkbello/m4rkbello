@@ -28,7 +28,7 @@
     <a href="https://ibb.co/K9vjpg3"><img src="https://i.ibb.co/gDKML8B/axios.png" alt="axios" border="0" height="90%" width="10%" ></a>
 <a href="https://ibb.co/GJL025C"><img src="https://i.ibb.co/cvH1Fr2/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/PjZnk0L"><img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/5FTfSwr"><img src="https://i.ibb.co/q5BPcVN/mysqlDB.png" alt="mysqlDB" border="0" height="50%" width="50%"></a>
+<a href="https://ibb.co/5FTfSwr"><img src="https://i.ibb.co/q5BPcVN/mysqlDB.png" alt="mysqlDB" border="0" height="10%" width="10%"></a>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
