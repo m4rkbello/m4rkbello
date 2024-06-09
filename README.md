@@ -91,7 +91,6 @@
 <h3 align="left">VERSION CONTROL TOOLS</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Postman" width="40" height="40"/>
                 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Postman" width="40" height="40"/>
     
@@ -102,6 +101,7 @@
     <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="http" width="40" height="40"/>
  <img href="https://ibb.co/3WmkLvT"><img src="https://i.ibb.co/tcp3WzH/16919504.png" alt="16919504" border="0" width="40" height="40"/>
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Postman" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
                 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Postman" width="40" height="40"/>
                 <a href="https://ibb.co/nkS2BSK"><img src="https://i.ibb.co/ZTCsSCb/thunder-Client-API.png" alt="thunder-Client-API" border="0" width="40" height="40"></a>
     
