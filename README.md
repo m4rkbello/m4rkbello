@@ -27,7 +27,7 @@
 <a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0" width="40" height="40"></a>
     <a href="https://ibb.co/K9vjpg3"><img src="https://i.ibb.co/gDKML8B/axios.png" alt="axios" border="0" height="100%" width="10%" ></a>
 <a href="https://ibb.co/GJL025C"><img src="https://i.ibb.co/cvH1Fr2/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
-    <a href="https://ibb.co/GQWFnKC"><img src="https://i.ibb.co/k24M5Rq/laravel.png" alt="laravel" border="0" height="100%" width="10%"></a>
+  <a href="https://ibb.co/PjZnk0L"><img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
     <a href="https://ibb.co/Hq8s8B1"><img src="https://i.ibb.co/dDYqYj1/mysql.jpg" alt="mysql" border="0" height="100%" width="10%"></a>
 </p>
 
