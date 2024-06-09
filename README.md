@@ -16,7 +16,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 
-<a href="https://ibb.co/647tDqT"><img src="https://i.ibb.co/55gjsJS/TS3D.png" alt="TS3D" border="0" width="40" height="40"></a>
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Tyepscript" width="40" height="40"/>
+
 </p>
 
 <h3 align="left">Full-Stack Web: RETADAVEL STACK:</h3>
