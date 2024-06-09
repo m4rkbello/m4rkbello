@@ -18,6 +18,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 </p>
 
+<h3 align="left">RETADAVEL:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    
+<img src="href="https://ibb.co/6FQppW0"><img src="https://i.ibb.co/2dJLLk3/daisyui.png" alt="daisyui" border="0"" alt="Laravel" width="40" height="40"/>
+</p>
+
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
