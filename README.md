@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="10%"></a>
 <a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="10%"></a>
-<a href="https://ibb.co/mTGnhgK"><img src="https://i.ibb.co/4t7b43L/daisyIU.png" alt="daisyIU" border="0" width="40" height="40"></a>
+<a href="https://ibb.co/mBHy6jd"><img src="https://i.ibb.co/yR8kW9K/daisyui.png" alt="daisyui" border="0" height="100%" width="10%"></a>
 <a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/PjZnk0L"><img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
