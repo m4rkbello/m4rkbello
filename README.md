@@ -23,8 +23,7 @@
 <h3 align="left">RETADAVEL:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    
-<img href="https://ibb.co/6FQppW0" width="40" height="40"><img src="https://i.ibb.co/2dJLLk3/daisyui.png" alt="daisyui" border="0" ></img>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 </p>
 
 <h3 align="left">Libraries and Frameworks:</h3>
