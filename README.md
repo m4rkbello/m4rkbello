@@ -50,8 +50,10 @@
 <h3 align="left">REACT JS/TS Frameworks, Libraries, Packages, Plugins:</h3>
 <p align="left">
 <a href="https://ibb.co/ggrLxtn"><img src="https://i.ibb.co/Lp0X39G/vite.png" alt="vite" border="0" height="100%" width="20%"></a>
+  <a href="https://ibb.co/C6dxf0z"><img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" alt="create-React-App-Logo" border="0" height="100%" width="20%"></a>
 <a href="https://ibb.co/S5zQ357"><img src="https://i.ibb.co/VJsHqJp/nextJS.png" alt="nextJS" border="0" height="100%" width="20%"></a>
-    <a href="https://ibb.co/SRhWYMb"><img src="https://i.ibb.co/LnLbjcm/shadcnUI.png" alt="shadcnUI" border="0" height="100%" width="20%"></a>
+<a href="https://ibb.co/BqrpLSX"><img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" alt="shadcn-UIv1" border="0" height="100%" width="20%"></a>
+
 </p>
 <hr>
 <hr>
