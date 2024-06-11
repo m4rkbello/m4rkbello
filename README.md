@@ -1,6 +1,9 @@
 
 <hr>
-<h1>Hi! I'm M4rk. 👨‍💻 <br>"You do not need to be perfect, You just need to be better than yesterday."</h1>
+<p align="center">
+Hi! I'm M4rk.👨‍💻 
+</p>
+<h1><br>"You do not need to be perfect, You just need to be better than yesterday."</h1>
 <hr>
 <div> <a href="https://github.com/https://github.com/m4rkbello/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:markamarcortejopanesbello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
