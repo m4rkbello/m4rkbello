@@ -76,8 +76,9 @@ Hi! I'm M4rk.👨‍💻
 <hr>
 <h3 align="left">DATABASE</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0"  height="100%" width="20%"></a>
+
+  <a href="https://ibb.co/xHgdGfR"><img src="https://i.ibb.co/C29DvMT/mongodb.png" alt="mongodb" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
 <h3 align="left">MULTIMEDIA TOOL</h3>
