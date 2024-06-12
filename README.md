@@ -71,7 +71,7 @@ Hi! I'm M4rk.👨‍💻
 <h3 align="left">JS BACKEND(I want to learn)</h3>
 <p align="left">
   <a href="https://ibb.co/M2GcXYS"><img src="https://i.ibb.co/SsdtLhy/expressjs.jpg" alt="expressjs" border="0" height="100%" width="20%></a>
-<a href="https://ibb.co/0BXB1d7"><img src="https://i.ibb.co/TKTKJFf/nodejs.png" alt="nodejs" border="0" height="100%" width="20%">></a>
+<a href="https://ibb.co/0BXB1d7"><img src="https://i.ibb.co/TKTKJFf/nodejs.png" alt="nodejs" border="0" height="100%" width="20%"></a>
 </p>
 <hr>
 <h3 align="left">DATABASE</h3>
