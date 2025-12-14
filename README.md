@@ -68,8 +68,8 @@
 ## ⚙️ Libraries & Frameworks
 
 <p>
-  <img src="https://i.ibb.co/r370rcL/reactjs.png" width="100"/>
-  <img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" width="100"/>
+  <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="100"/>
+  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
 </p>
 
 ---
@@ -130,12 +130,11 @@
 ## 🗄️ Database
 
 <p>
-  
   <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
   <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
-  <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100">
-  <img src="https://i.ibb.co/Y7CVXDrL/sqlite.png" alt="sqlite" border="0" width="100">>
-  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100">>
+  <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100" />
+  <img src="https://i.ibb.co/Y7CVXDrL/sqlite.png" alt="sqlite" border="0" width="100" />
+  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100" />
 </p>
 
 ---
@@ -172,7 +171,7 @@
 ## ☁️ Hosting & Deployment
 
 <p>
-  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100">
+  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100"/>
   <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="100"/>
   <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="100"/>
   <img src="https://i.ibb.co/tpK0hRC5/render.png" width="100"/>
