@@ -21,8 +21,8 @@
 
 ## 👋 About Me
 
-- Full-Stack Web Developer  
-- Strong focus on **React, Laravel, and modern UI systems**
+- Full-Stack Web and Mobile Developer  
+- Strong focus on **React, Laravel(Api.php/Web.php), and modern UI systems**
 - Passionate about clean architecture, performance, and continuous improvement  
 - Currently expanding into **Mobile Development** and **JavaScript Backend**
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🧩 Core Full-Stack (Reliable Stack)
+## 🧩 Core Full-Stack as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL Stack)
 
 <p>
   <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="80"/>
@@ -90,7 +90,7 @@
 <p>
   <img src="https://i.ibb.co/Lp0X39G/vite.png" width="80"/>
   <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="80"/>
-  <img src="https://i.ibb.co/VJsHqJp/nextJS.png" width="80"/>
+  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="80"/>
   <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="80"/>
 </p>
 
@@ -105,17 +105,15 @@
 
 ---
 
-## 📱 Mobile Development (Learning)
+## 📱 Mobile Development
 
 <p>
   <img src="https://i.ibb.co/FBdtgvQ/reactnative.png" width="80"/>
-  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="80"/>
-  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="80"/>
 </p>
 
 ---
 
-## 🟢 Backend (Learning)
+## 🟢 Backend
 
 <p>
   <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="80"/>
@@ -125,7 +123,7 @@
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database
 
 <p>
   <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="80"/>
