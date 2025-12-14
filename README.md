@@ -109,7 +109,7 @@
 
 <p>
   <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="80">
-  <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0">
+  <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0" width="100">
 </p>
 
 ---
