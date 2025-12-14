@@ -60,7 +60,7 @@
   <img src="https://i.ibb.co/TPCHLqp/axios.png" width="100"/>
   <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
   <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
-  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
+  <img src="https://i.ibb.co/XkXKH1BW/mysql1.png" alt="mysql1" border="0" width="100"/>
 </p>
 
 ---
@@ -90,9 +90,10 @@
 <p>
   <img src="https://i.ibb.co/Lp0X39G/vite.png" width="100"/>
   <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="100"/>
-  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100"/>
+  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100" />
   <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="100"/>
-  
+  <img src="https://i.ibb.co/PGGdD8Yy/mantine.jpg" alt="mantine" border="0" width="100" /> 
+  <img src="https://i.ibb.co/pjs06BFL/reactbootstrap.png" alt="reactbootstrap" border="0" width="100" />
 </p>
 
 ---
@@ -123,6 +124,8 @@
   <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="100"/>
   <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="100"/>
   <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="100"/>
+  <img src="https://i.ibb.co/FbSQ7CMB/bunjs.png" alt="bunjs" border="0" width="100">
+  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
 </p>
 
 ---
@@ -130,11 +133,13 @@
 ## 🗄️ Database
 
 <p>
-  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
+  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100" />
+  <img src="https://i.ibb.co/XkXKH1BW/mysql1.png" alt="mysql1" border="0" width="100"/>
   <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
   <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100" />
   <img src="https://i.ibb.co/Y7CVXDrL/sqlite.png" alt="sqlite" border="0" width="100" />
-  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100" />
+  <img src="https://i.ibb.co/vxJJJycb/firebase.png" alt="firebase" border="0" width="100"/>
+  <img src="https://i.ibb.co/VYQG1BSG/upstash.png" alt="upstash" border="0">
 </p>
 
 ---
