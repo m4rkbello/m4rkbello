@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/xL6Mbx0/m4rk.png" alt="Mark Bello" width="180" />
+  <img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" alt="m4rktriangle" border="0" width="200">
 </p>
 
 <h1 align="center">Mark Bello</h1>
