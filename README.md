@@ -24,7 +24,7 @@
 - Full-Stack Web and Mobile Developer  
 - Strong focus on **React, Laravel(Api.php/Web.php), and modern UI systems**
 - Passionate about clean architecture, performance, and continuous improvement  
-- Currently expanding into **Mobile Development** and **JavaScript Backend**
+- Currently expanding into **Mobile Development**,**JavaScript Backend**,**API Integration** and **Development Optimization**
 
 ---
 
