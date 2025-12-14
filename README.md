@@ -120,7 +120,7 @@
 <p>
   <img src="https://i.ibb.co/SsdtLhy/expressjs.jpg" width="80"/>
   <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="80"/>
-    <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="80"/>
+  <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="80"/>
 </p>
 
 ---
