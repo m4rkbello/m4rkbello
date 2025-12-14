@@ -51,7 +51,7 @@
 
 ---
 
-## 🧩 Core Full-Stack as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL)
+## 🧩 Full-Stack Web Application as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL)
 
 <p>
   <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="100"/>
