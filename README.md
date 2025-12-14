@@ -173,6 +173,19 @@
 
 ---
 
+## ☁️ Hosting & Deployment
+
+<p>
+  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100"/>
+  <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="100"/>
+  <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="100"/>
+  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="100"/>
+  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="100"/>
+  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="100"/>
+</p> 
+
+---------------------------------------------------------------------------------------------------------
+
 🚀 Learning Roadmap — 2026
 
 Technologies I plan to deeply learn and apply in production systems.
@@ -197,13 +210,3 @@ High-performance APIs (Hono, GraphQL)
 
 Scalable mobile development (Flutter)
 
-## ☁️ Hosting & Deployment
-
-<p>
-  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100"/>
-  <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="100"/>
-  <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="100"/>
-  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="100"/>
-  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="100"/>
-  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="100"/>
-</p> 
