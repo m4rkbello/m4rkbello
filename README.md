@@ -51,16 +51,16 @@
 
 ---
 
-## 🧩 Core Full-Stack as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL Stack)
+## 🧩 Core Full-Stack as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL)
 
 <p>
-  <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="80"/>
-  <img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" width="80"/>
-  <img src="https://i.ibb.co/yR8kW9K/daisyui.png" width="80"/>
-  <img src="https://i.ibb.co/TPCHLqp/axios.png" width="80"/>
-  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="80"/>
-  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="80"/>
-  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="80"/>
+  <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="100"/>
+  <img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" width="100"/>
+  <img src="https://i.ibb.co/yR8kW9K/daisyui.png" width="100"/>
+  <img src="https://i.ibb.co/TPCHLqp/axios.png" width="100"/>
+  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
+  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
+  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
 </p>
 
 ---
@@ -68,8 +68,8 @@
 ## ⚙️ Libraries & Frameworks
 
 <p>
-  <img src="https://i.ibb.co/r370rcL/reactjs.png" width="60"/>
-  <img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" width="60"/>
+  <img src="https://i.ibb.co/r370rcL/reactjs.png" width="100"/>
+  <img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" width="100"/>
 </p>
 
 ---
@@ -77,10 +77,10 @@
 ## 🎨 UI Frameworks & Tooling
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="100"/>
 </p>
 
 ---
@@ -88,10 +88,10 @@
 ## ⚛️ React / TypeScript Ecosystem
 
 <p>
-  <img src="https://i.ibb.co/Lp0X39G/vite.png" width="80"/>
-  <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="80"/>
-  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="80"/>
-  <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="80"/>
+  <img src="https://i.ibb.co/Lp0X39G/vite.png" width="100"/>
+  <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="100"/>
+  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100"/>
+  <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="100"/>
 </p>
 
 ---
@@ -99,8 +99,8 @@
 ## 🧠 State Management
 
 <p>
-  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="80"/>
-  <img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" width="80"/>
+  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
+  <img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" width="100"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 📱 Mobile Development
 
 <p>
-  <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="80">
+  <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="100">
   <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0" width="100">
 </p>
 
@@ -117,9 +117,9 @@
 ## 🟢 Backend
 
 <p>
-  <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="80"/>
-  <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="80"/>
-  <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="80"/>
+  <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="100"/>
+  <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="100"/>
+  <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="100"/>
 </p>
 
 ---
@@ -127,8 +127,8 @@
 ## 🗄️ Database
 
 <p>
-  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="80"/>
-  <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="80"/>
+  <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
+  <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
 </p>
 
 ---
@@ -136,9 +136,9 @@
 ## 🎨 Design & Multimedia Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="100"/>
 </p>
 
 ---
@@ -146,8 +146,8 @@
 ## 🔁 Version Control
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="100"/>
 </p>
 
 ---
@@ -155,9 +155,9 @@
 ## 🔌 API & Testing Tools
 
 <p>
-  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="40"/>
-  <img src="https://i.ibb.co/ZTCsSCb/thunder-Client-API.png" width="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="100"/>
+  <img src="https://i.ibb.co/ZTCsSCb/thunder-Client-API.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="100"/>
 </p>
 
 ---
@@ -165,10 +165,10 @@
 ## ☁️ Hosting & Deployment
 
 <p>
-  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="80">
-  <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="80"/>
-  <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="80"/>
-  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="80"/>
-  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="80"/>
-  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="80"/>
+  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100">
+  <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="100"/>
+  <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="100"/>
+  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="100"/>
+  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="100"/>
+  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="100"/>
 </p> 
