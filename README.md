@@ -92,6 +92,7 @@
   <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="100"/>
   <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100"/>
   <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="100"/>
+  
 </p>
 
 ---
@@ -100,8 +101,10 @@
 
 <p>
   <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
-  <img src="https://i.ibb.co/DtM66v3/reduxtoolki.png" width="100"/>
-</p>
+  <img src="https://i.ibb.co/KcrPP1XR/reduxtoolkit.png" alt="reduxtoolkit" border="0" width="100"/>
+  <img src="https://i.ibb.co/Zz4jwKqc/tanstackquery.png" alt="tanstackquery" border="0" width="100"/>
+  <img src="https://i.ibb.co/GQZ89j4c/zustand.png" alt="zustand" border="0" width="100" />
+</p> 
 
 ---
 
@@ -127,8 +130,12 @@
 ## 🗄️ Database
 
 <p>
+  
   <img src="https://i.ibb.co/GHMwWs8/mysql.png" width="100"/>
   <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
+  <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100">
+  <img src="https://i.ibb.co/Y7CVXDrL/sqlite.png" alt="sqlite" border="0" width="100">>
+  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100">>
 </p>
 
 ---
