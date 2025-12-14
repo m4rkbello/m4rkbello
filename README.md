@@ -85,15 +85,15 @@
 
 ---
 
-## ⚛️ React / TypeScript Ecosystem
+## ⚛️ ReactJS / TypeScript Ecosystem
 
 <p>
   <img src="https://i.ibb.co/Lp0X39G/vite.png" width="100"/>
   <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="100"/>
-  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100" />
+  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100"/>
   <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="100"/>
-  <img src="https://i.ibb.co/PGGdD8Yy/mantine.jpg" alt="mantine" border="0" width="100" /> 
-  <img src="https://i.ibb.co/pjs06BFL/reactbootstrap.png" alt="reactbootstrap" border="0" width="100" />
+  <img src="https://i.ibb.co/PGGdD8Yy/mantine.jpg" alt="mantine" border="0" width="100"/> 
+  <img src="https://i.ibb.co/pjs06BFL/reactbootstrap.png" alt="reactbootstrap" border="0" width="100"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
   <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
   <img src="https://i.ibb.co/KcrPP1XR/reduxtoolkit.png" alt="reduxtoolkit" border="0" width="100"/>
   <img src="https://i.ibb.co/Zz4jwKqc/tanstackquery.png" alt="tanstackquery" border="0" width="100"/>
-  <img src="https://i.ibb.co/GQZ89j4c/zustand.png" alt="zustand" border="0" width="100" />
+  <img src="https://i.ibb.co/GQZ89j4c/zustand.png" alt="zustand" border="0" width="100"/>
 </p> 
 
 ---
@@ -112,8 +112,8 @@
 ## 📱 Mobile Development
 
 <p>
-  <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="100">
-  <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0" width="100">
+  <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="100"/>
+  <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0" width="100"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@
   <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="100"/>
   <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="100"/>
   <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="100"/>
-  <img src="https://i.ibb.co/FbSQ7CMB/bunjs.png" alt="bunjs" border="0" width="100">
+  <img src="https://i.ibb.co/FbSQ7CMB/bunjs.png" alt="bunjs" border="0" width="100"/>
   <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
 </p>
 
@@ -137,9 +137,9 @@
   <img src="https://i.ibb.co/XkXKH1BW/mysql1.png" alt="mysql1" border="0" width="100"/>
   <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
   <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100" />
-  <img src="https://i.ibb.co/Y7CVXDrL/sqlite.png" alt="sqlite" border="0" width="100" />
+  <img src="https://i.ibb.co/Z6kFKJ3q/sqlite.png" alt="sqlite" border="0" width="100" />
   <img src="https://i.ibb.co/vxJJJycb/firebase.png" alt="firebase" border="0" width="100"/>
-  <img src="https://i.ibb.co/VYQG1BSG/upstash.png" alt="upstash" border="0">
+  <img src="https://i.ibb.co/VYQG1BSG/upstash.png" alt="upstash" border="0" width="100" />
 </p>
 
 ---
