@@ -118,7 +118,7 @@
 ## 🟢 Backend (Learning)
 
 <p>
-  <img src="https://i.ibb.co/SsdtLhy/expressjs.jpg" width="80"/>
+  <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="80"/>
   <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="80"/>
   <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="80"/>
 </p>
@@ -168,4 +168,7 @@
 <p>
   <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="80"/>
   <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="80"/>
+  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="80"/>
+  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="80"/>
+  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="80"/>
 </p> 
