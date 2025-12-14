@@ -1,4 +1,4 @@
-I want to modern design for readme how? I have this <p align="center">
+<p align="center">
   <img src="https://i.ibb.co/xL6Mbx0/m4rk.png" alt="Mark Bello" width="180" />
 </p>
 
