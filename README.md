@@ -173,6 +173,30 @@
 
 ---
 
+🚀 Learning Roadmap — 2026
+
+Technologies I plan to deeply learn and apply in production systems.
+
+☁️ Cloud & DevOps
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="56"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="56"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="56"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="56"/> </p>
+🔐 Authentication & Security
+<p> <img src="https://i.ibb.co/qjzK9sZ/oauth.png" alt="OAuth" width="56"/> <img src="https://i.ibb.co/Xk9k5Vx/jwt.png" alt="JWT" width="56"/> <img src="https://i.ibb.co/WpF6Jm7/clerk.png" alt="Clerk" width="56"/> </p>
+🧠 Backend & API Architecture
+<p> <img src="https://i.ibb.co/9y5J6zM/honojs.png" alt="HonoJS" width="56"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="56"/> <img src="https://i.ibb.co/Yc4j8P2/zod.png" alt="Zod" width="56"/> </p>
+📱 Mobile & Cross-Platform
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="56"/> </p>
+🎯 Focus for 2026
+
+Production-grade Dockerized deployments
+
+Cloud-native infrastructure (AWS & DigitalOcean)
+
+Secure authentication flows (OAuth, JWT, Clerk)
+
+High-performance APIs (Hono, GraphQL)
+
+Scalable mobile development (Flutter)
+
 ## ☁️ Hosting & Deployment
 
 <p>
