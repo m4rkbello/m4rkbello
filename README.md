@@ -164,6 +164,7 @@
 ## ☁️ Hosting & Deployment
 
 <p>
+  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="80">
   <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="80"/>
   <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="80"/>
   <img src="https://i.ibb.co/tpK0hRC5/render.png" width="80"/>
