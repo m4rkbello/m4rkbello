@@ -1,185 +1,200 @@
-<p align="center">
-  <img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" alt="m4rktriangle" border="0" width="200">
-</p>
+<div align="center">
 
-<h1 align="center">Mark Bello</h1>
+<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius:50%"/>
 
-<p align="center">
-  <em>"You do not need to be perfect. You just need to be better than yesterday."</em>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/m4rkbello">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:markamarcortejopanesbello@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mark+Bello+%F0%9F%91%8B;Full-Stack+Developer;React+%C2%B7+Laravel+%C2%B7+Node.js;Mobile+%7C+API+%7C+Clean+Code)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 👋 About Me
+*"You do not need to be perfect. You just need to be better than yesterday."*
 
-- Full-Stack Web and Mobile Developer  
-- Strong focus on **React, Laravel(Api.php/Web.php), and modern UI systems**
-- Passionate about clean architecture, performance, and continuous improvement  
-- Currently expanding into **Mobile Development**,**JavaScript Backend**,**API Integration** and **Development Optimization**
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-m4rkbello-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m4rkbello)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markamarcortejopanesbello@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@m4rkbello-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m4rkbello)
+[![Dev.to](https://img.shields.io/badge/Dev.to-@m4rkbello-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/m4rkbello)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://www.youtube.com/@m4rkbello">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/youtube.svg" width="40"/>
-  </a>
-  <a href="https://dev.to/m4rkbello">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/devto.svg" width="40"/>
-  </a>
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
+```ts
+const markBello = {
+  role:     "Full-Stack Web & Mobile Developer",
+  focus:    ["React", "Laravel", "Modern UI Systems"],
+  learning: ["Mobile Dev", "JS Backend", "API Integration", "Dev Optimization"],
+  motto:    "Clean architecture · Performance · Continuous improvement",
+};
+```
 
 ---
 
-## 🧩 Full-Stack Web Application as Single Page Application (Reactjs,TailwindCSS,Redux,Axios,Laravel,MySQL)
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="100"/>
-  <img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" width="100"/>
-  <img src="https://i.ibb.co/yR8kW9K/daisyui.png" width="100"/>
-  <img src="https://i.ibb.co/TPCHLqp/axios.png" width="100"/>
-  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
-  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
-  <img src="https://i.ibb.co/XkXKH1BW/mysql1.png" alt="mysql1" border="0" width="100"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&theme=tokyonight&border_color=00e5ff&bg_color=050509&title_color=00e5ff&icon_color=39ff14&text_color=c8d6e0&hide_border=false&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&theme=tokyonight&border_color=00e5ff&bg_color=050509&title_color=00e5ff&text_color=c8d6e0" height="165"/>
 
-## ⚙️ Libraries & Frameworks
+<br/><br/>
 
-<p>
-  <img src="https://i.ibb.co/sWFWv23/reactjs.png" width="100"/>
-  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m4rkbello&theme=tokyonight&border=00e5ff&background=050509&stroke=00e5ff&ring=00e5ff&fire=39ff14&currStreakLabel=00e5ff&sideLabels=c8d6e0&dates=5a7a8a" height="165"/>
+
+</div>
 
 ---
 
-## 🎨 UI Frameworks & Tooling
+## 💻 Languages
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="50"/>
-</p>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ---
 
-## ⚛️ ReactJS / TypeScript Ecosystem
+## ⚛️ Frontend
 
-<p>
-  <img src="https://i.ibb.co/Lp0X39G/vite.png" width="100"/>
-  <img src="https://i.ibb.co/w7HDf6R/create-React-App-Logo.png" width="100"/>
-  <img src="https://i.ibb.co/SwFfZGT8/next-JS.png" alt="next JS" border="0" width="100"/>
-  <img src="https://i.ibb.co/LnJFS2L/shadcn-UIv1.png" width="100"/>
-  <img src="https://i.ibb.co/PGGdD8Yy/mantine.jpg" alt="mantine" border="0" width="100"/> 
-  <img src="https://i.ibb.co/pjs06BFL/reactbootstrap.png" alt="reactbootstrap" border="0" width="100"/>
-</p>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
 
 ---
 
 ## 🧠 State Management
 
-<p>
-  <img src="https://i.ibb.co/S6KVQCZ/redux1.png" width="100"/>
-  <img src="https://i.ibb.co/KcrPP1XR/reduxtoolkit.png" alt="reduxtoolkit" border="0" width="100"/>
-  <img src="https://i.ibb.co/Zz4jwKqc/tanstackquery.png" alt="tanstackquery" border="0" width="100"/>
-  <img src="https://i.ibb.co/GQZ89j4c/zustand.png" alt="zustand" border="0" width="100"/>
-</p> 
+<div align="center">
 
----
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-## 📱 Mobile Development
-
-<p>
-  <img src="https://i.ibb.co/mVP8Pfw7/reactnative.png" alt="reactnative" border="0" width="100"/>
-  <img src="https://i.ibb.co/bR8bqrQV/expo.png" alt="expo" border="0" width="100"/>
-</p>
+</div>
 
 ---
 
 ## 🟢 Backend
 
-<p>
-  <img src="https://i.ibb.co/5gyZ0Fnc/expressjs.png" width="100"/>
-  <img src="https://i.ibb.co/TKTKJFf/nodejs.png" width="100"/>
-  <img src="https://i.ibb.co/Ps23ygQB/elysiajs.png" width="100"/>
-  <img src="https://i.ibb.co/FbSQ7CMB/bunjs.png" alt="bunjs" border="0" width="100"/>
-  <img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" width="100"/>
-</p>
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-ffffff?style=for-the-badge&logo=elysia&logoColor=black)
+
+</div>
 
 ---
 
-## 🗄️ Database
+## 🗄️ Databases
 
-<p>
-  <img src="https://i.ibb.co/WNfQVSVL/json.png" alt="json" border="0" width="100" />
-  <img src="https://i.ibb.co/XkXKH1BW/mysql1.png" alt="mysql1" border="0" width="100"/>
-  <img src="https://i.ibb.co/C29DvMT/mongodb.png" width="100"/>
-  <img src="https://i.ibb.co/60GfqLH1/postgress.png" alt="postgress" border="0" width="100" />
-  <img src="https://i.ibb.co/Z6kFKJ3q/sqlite.png" alt="sqlite" border="0" width="100" />
-  <img src="https://i.ibb.co/vxJJJycb/firebase.png" alt="firebase" border="0" width="100"/>
-  <img src="https://i.ibb.co/VYQG1BSG/upstash.png" alt="upstash" border="0" width="100" />
-</p>
+<div align="center">
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
 
-## 🎨 Design & Multimedia Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/>
-</p>
+</div>
 
 ---
 
-## 🔁 Version Control
+## 📱 Mobile Development
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50"/>
-</p>
+<div align="center">
 
----
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-## 🔌 API & Testing Tools
-
-<p>
-  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="50"/>
-  <img src="https://i.ibb.co/ZTCsSCb/thunder-Client-API.png" width="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50"/>
-</p>
+</div>
 
 ---
 
 ## ☁️ Hosting & Deployment
 
-<p>
-  <img src="https://i.ibb.co/QjhPQgkf/githubpages.jpg" alt="githubpages" border="0" width="100"/>
-  <img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" width="100"/>
-  <img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" width="100"/>
-  <img src="https://i.ibb.co/tpK0hRC5/render.png" width="100"/>
-  <img src="https://i.ibb.co/fGKy5JqN/netlify.png" width="100"/>
-  <img src="https://i.ibb.co/0R1gPBQv/vercel.png" width="100"/>
-</p> 
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+</div>
+
+---
+
+## 🎨 Design & Tools
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge&logo=thunderclient&logoColor=purple)
+
+</div>
+
+---
+
+## 🏗️ Full-Stack SPA Architecture
+
+<div align="center">
+
+| Layer | Stack |
+|:------|:------|
+| **Frontend** | React.js · Next.js · TailwindCSS · TypeScript |
+| **State** | Redux Toolkit · TanStack Query · Zustand |
+| **Backend** | Laravel (API/Web) · Node.js · Express · ElysiaJS |
+| **Database** | MySQL · PostgreSQL · MongoDB · Firebase |
+| **Mobile** | React Native · Expo |
+| **Deploy** | Vercel · Netlify · Render · Hostinger |
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=050509&color=00e5ff&line=39ff14&point=bf5fff&area=true&hide_border=false&border_color=00e5ff)](https://github.com/m4rkbello)
+
+</div>
+
+---
+
+<div align="center">
+
+*⚡ Built with focus · Powered by curiosity · Always shipping*
+
+</div>
