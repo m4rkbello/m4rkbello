@@ -30,13 +30,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ░░  SYSTEM IDENTITY — MARK BELLO  ░░                   ║
-║  ─────────────────────────────────────────────────────  ║
-║  > CLASS     : Full-Stack Web & Mobile Developer        ║
-║  > LOCATION  : Philippines                              ║
-║  > CORE      : React · Laravel · TypeScript             ║
-║  > EXPANDING : Mobile Dev · JS Backend · API Systems   ║
-║  > MISSION   : Clean Architecture & Continuous Growth  ║
+║  ░░  SYSTEM IDENTITY — MARK BELLO  ░░                    ║
+║  ─────────────────────────────────────────────────────   ║
+║  > CLASS     : Full-Stack Web & Mobile Developer         ║
+║  > LOCATION  : Philippines                               ║
+║  > CORE      : React · Laravel · TypeScript              ║
+║  > EXPANDING : Mobile Dev · Web Dev · API Systems        ║
+║  > MISSION   : Clean Architecture & Continuous Growth    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -52,10 +52,10 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │  FRONTEND                        BACKEND                            │
 │  ─────────                       ───────                            │
-│  ▸ React.js          ────────▶   ▸ Laravel (API / Web routes)      │
+│  ▸ React.js19        ────────▶   ▸ Laravel (API / Web routes)      │
 │  ▸ TailwindCSS       ────────▶   ▸ MySQL                           │
 │  ▸ DaisyUI           ────────▶   ▸ RESTful Architecture            │
-│  ▸ Axios             ────────▶   ▸ Sanctum / Passport Auth        │
+│  ▸ Axios             ────────▶   ▸ Sanctum / Passport Auth         │
 │  ▸ Redux Toolkit                                                    │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -81,7 +81,7 @@
 
 ```
 ┌── BUILD TOOLS ──────────────────────────────────────────────────────┐
-│  ▸ Vite          ▸ Create React App       ▸ Next.js                │
+│  ▸ Vite          ▸ Create React App       ▸ Next.js                 │
 ├── UI COMPONENT LIBRARIES ───────────────────────────────────────────┤
 │  ▸ shadcn/ui     ▸ Mantine                ▸ React Bootstrap         │
 └─────────────────────────────────────────────────────────────────────┘
@@ -115,9 +115,9 @@
 
 ```
   ┌─────────────────────────────────┐
-  │  📱 MOBILE INTERFACE LAYER      │
-  │  ▸ React Native                 │
-  │  ▸ Expo                         │
+  │  📱 MOBILE INTERFACE LAYER     │
+  │  ▸ React Native Cli             │
+  │  ▸ React Native Expo            │
   └─────────────────────────────────┘
 ```
 
@@ -203,12 +203,12 @@
   ┌──────────────────────────────────────────────────────────────┐
   │  DEPLOYMENT GRID                                             │
   │                                                              │
-  │  ▸ Vercel          → Frontend / Next.js                     │
-  │  ▸ Netlify         → Static / JAMstack                      │
-  │  ▸ Render          → Backend Services                       │
-  │  ▸ Hostinger       → Full Hosting                           │
-  │  ▸ cPanel          → Shared Hosting                         │
-  │  ▸ GitHub Pages    → Static Sites                           │
+  │  ▸ Vercel          → Frontend / Next.js                      │
+  │  ▸ Netlify         → Static / JAMstack                       │
+  │  ▸ Render          → Backend Services                        │
+  │  ▸ Hostinger       → Full Hosting                            │
+  │  ▸ cPanel          → Shared Hosting                          │
+  │  ▸ GitHub Pages    → Static Sites                            │
   └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -239,10 +239,10 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   "You do not need to be perfect.                               ║
-║    You just need to be better than yesterday."                  ║
+║   "You do not need to be perfect.                                ║
+║    You just need to be better than yesterday."                   ║
 ║                                                                  ║
-║                                              — Mark Bello       ║
+║                                              — Mark Bello        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
