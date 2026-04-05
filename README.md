@@ -224,10 +224,6 @@
 
 <div align="center">
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FFFF&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=m4rkbello&theme=dark&hide_border=true&background=0a0a0a&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
 
 </div>
