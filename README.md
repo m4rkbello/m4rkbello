@@ -1,7 +1,7 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██████╗ ██╗  ██╗    ██████╗ ███████╗██╗     ██╗      ██████╗
+```text
+███╗  ███╗ █████╗ ██████╗ ██╗  ██╗    ██████╗ ███████╗██╗     ██╗      ██████╗
 ████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔════╝██║     ██║     ██╔═══██╗
 ██╔████╔██║███████║██████╔╝█████╔╝     ██████╔╝█████╗  ██║     ██║     ██║   ██║
 ██║╚██╔╝██║██╔══██║██╔══██╗██╔═██╗     ██╔══██╗██╔══╝  ██║     ██║     ██║   ██║
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║  ░░  SYSTEM IDENTITY — MARK BELLO  ░░                    ║
 ║  ─────────────────────────────────────────────────────   ║
@@ -48,14 +48,14 @@
 
 > **React** + **TailwindCSS** + **DaisyUI** + **Axios** + **Redux** + **Laravel** + **MySQL**
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │  FRONTEND                        BACKEND                            │
 │  ─────────                       ───────                            │
-│  ▸ React.js19        ────────▶   ▸ Laravel (API / Web routes)      │
-│  ▸ TailwindCSS       ────────▶   ▸ MySQL                           │
-│  ▸ DaisyUI           ────────▶   ▸ RESTful Architecture            │
-│  ▸ Axios             ────────▶   ▸ Sanctum / Passport Auth         │
+│  ▸ React.js19         ────────▶  ▸ Laravel (API / Web routes)       │
+│  ▸ TailwindCSS        ────────▶  ▸ MySQL                            │
+│  ▸ DaisyUI            ────────▶  ▸ RESTful Architecture             │
+│  ▸ Axios              ────────▶  ▸ Sanctum / Passport Auth          │
 │  ▸ Redux Toolkit                                                    │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -79,7 +79,7 @@
 
 ## `[ 03 ]` — REACT / TYPESCRIPT ECOSYSTEM
 
-```
+```text
 ┌── BUILD TOOLS ──────────────────────────────────────────────────────┐
 │  ▸ Vite          ▸ Create React App       ▸ Next.js                 │
 ├── UI COMPONENT LIBRARIES ───────────────────────────────────────────┤
@@ -97,7 +97,7 @@
 
 ## `[ 04 ]` — STATE MANAGEMENT MATRIX
 
-```
+```text
   Redux ──────────────── Classic · Predictable · Battle-Tested
   Redux Toolkit ──────── Modern Redux · Simplified Boilerplate
   TanStack Query ─────── Async State · Server Sync · Caching
@@ -113,7 +113,7 @@
 
 ## `[ 05 ]` — MOBILE DEVELOPMENT
 
-```
+```text
   ┌─────────────────────────────────┐
   │  📱 MOBILE INTERFACE LAYER       │
   │  ▸ React Native Cli             │
@@ -128,7 +128,7 @@
 
 ## `[ 06 ]` — BACKEND SYSTEMS
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │  NODE ECOSYSTEM                    PHP ECOSYSTEM                    │
 │  ──────────────                    ─────────────                    │
@@ -149,7 +149,7 @@
 
 ## `[ 07 ]` — DATABASE SYSTEMS
 
-```
+```text
   RELATIONAL ─────────  MySQL · PostgreSQL · SQLite
   NoSQL ──────────────  MongoDB · Firebase
   IN-MEMORY / CACHE ──  Upstash (Redis)
@@ -199,7 +199,7 @@
 
 ## `[ 12 ]` — HOSTING & DEPLOYMENT
 
-```
+```text
   ┌──────────────────────────────────────────────────────────────┐
   │  DEPLOYMENT GRID                                             │
   │                                                              │
@@ -232,7 +232,7 @@
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   "You do not need to be perfect.                                ║
