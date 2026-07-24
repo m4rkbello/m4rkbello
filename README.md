@@ -1,8 +1,12 @@
+<div align="center">
+
 ```text
-███╗  ███╗ █████╗ ██████╗ ██╗  ██╗    ██████╗ ███████╗██╗     ██╗      ██████╗
-████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔════╝██║     ██║     ██╔═══██╗
-@@ -14,11 +9,11 @@
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝
+███╗   ███╗██╗  ██╗██████╗ ██╗  ██╗██████╗ ███████╗██╗     ██╗      ██████╗
+████╗ ████║██║  ██║██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║     ██║     ██╔═══██╗
+██╔████╔██║███████║██████╔╝█████╔╝ ██████╔╝█████╗  ██║     ██║     ██║   ██║
+██║╚██╔╝██║╚════██║██╔══██╗██╔═██╗ ██╔══██╗██╔══╝  ██║     ██║     ██║   ██║
+██║ ╚═╝ ██║     ██║██║  ██║██║  ██╗██████╔╝███████╗███████╗███████╗╚██████╔╝
+╚═╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
 <!-- Glassmorphism Avatar Frame -->
@@ -10,94 +14,86 @@
 
 <br/>
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Your+Title+Here;Skill+%7C+Skill+%7C+Skill;Your+Tagline+Goes+Here;Another+line+about+what+drives+you.)
 
 <br/>
-@@ -50,76 +45,189 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## `[ 01 ]` — CORE STACK · FULL-STACK SPA
+## `[ 01 ]` — CORE STACK
 
-> **React** + **TailwindCSS** + **DaisyUI** + **Axios** + **Redux** + **Laravel** + **MySQL**
+> **Framework** + **Language** + **Database** + **Tool** + **Tool**
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │  FRONTEND                        BACKEND                            │
 │  ─────────                       ───────                            │
-│  ▸ React.js19         ────────▶  ▸ Laravel (API / Web routes)       │
-│  ▸ TailwindCSS        ────────▶  ▸ MySQL                            │
-│  ▸ DaisyUI            ────────▶  ▸ RESTful Architecture             │
-│  ▸ Axios              ────────▶  ▸ Sanctum / Passport Auth          │
-│  ▸ Redux Toolkit                                                    │
+│  ▸ Framework 1        ────────▶  ▸ Framework A (API / routes)       │
+│  ▸ Framework 2        ────────▶  ▸ Database                         │
+│  ▸ Library            ────────▶  ▸ Architecture style                │
+│  ▸ Library            ────────▶  ▸ Auth method                     │
+│  ▸ State tool                                                       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Badge](https://img.shields.io/badge/Tech-0a0a0a?style=for-the-badge&logo=tech&logoColor=00FFFF)
+![Badge](https://img.shields.io/badge/Tech-0a0a0a?style=for-the-badge&logo=tech&logoColor=00FFFF)
+![Badge](https://img.shields.io/badge/Tech-0a0a0a?style=for-the-badge&logo=tech&logoColor=00FFFF)
 
 ---
 
 ## `[ 02 ]` — PROGRAMMING LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Language](https://img.shields.io/badge/Language-0a0a0a?style=for-the-badge&logo=language&logoColor=F7DF1E)
+![Language](https://img.shields.io/badge/Language-0a0a0a?style=for-the-badge&logo=language&logoColor=3178C6)
+![Language](https://img.shields.io/badge/Language-0a0a0a?style=for-the-badge&logo=language&logoColor=777BB4)
 
 ---
 
-## `[ 03 ]` — REACT / TYPESCRIPT ECOSYSTEM
+## `[ 03 ]` — ECOSYSTEM / TOOLING
 
 ```text
 ┌── BUILD TOOLS ──────────────────────────────────────────────────────┐
-│  ▸ Vite          ▸ Create React App       ▸ Next.js                 │
+│  ▸ Tool          ▸ Tool                   ▸ Tool                     │
 ├── UI COMPONENT LIBRARIES ───────────────────────────────────────────┤
-│  ▸ shadcn/ui     ▸ Mantine                ▸ React Bootstrap         │
+│  ▸ Library       ▸ Library                ▸ Library                 │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
-![Mantine](https://img.shields.io/badge/Mantine-0a0a0a?style=for-the-badge&logo=mantine&logoColor=339AF0)
-![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=646CFF)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=ffffff)
 
 ---
 
-## `[ 04 ]` — STATE MANAGEMENT MATRIX
-
+## `[ 04 ]` — STATE / DATA MATRIX
 
 ```text
-  Redux ──────────────── Classic · Predictable · Battle-Tested
-  Redux Toolkit ──────── Modern Redux · Simplified Boilerplate
-  TanStack Query ─────── Async State · Server Sync · Caching
-  Zustand ────────────── Lightweight · Minimal · Scalable
+  Tool A ──────────────── Short description
+  Tool B ──────────────── Short description
+  Tool C ──────────────── Short description
+  Tool D ──────────────── Short description
 ```
 
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-0a0a0a?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![Zustand](https://img.shields.io/badge/Zustand-0a0a0a?style=for-the-badge&logo=zustand&logoColor=00FFFF)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=764ABC)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=FF4154)
 
 ---
 
-## `[ 05 ]` — MOBILE DEVELOPMENT
+## `[ 05 ]` — MOBILE / OTHER PLATFORM
 
 ```text
   ┌─────────────────────────────────┐
-  │  📱 MOBILE INTERFACE LAYER       │
-  │  ▸ React Native Cli             │
-  │  ▸ React Native Expo            │
+  │  📱 PLATFORM LAYER               │
+  │  ▸ Tool                          │
+  │  ▸ Tool                          │
   └─────────────────────────────────┘
 ```
 
-![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Expo](https://img.shields.io/badge/Expo-0a0a0a?style=for-the-badge&logo=expo&logoColor=ffffff)
+![Badge](https://img.shields.io/badge/Platform-0a0a0a?style=for-the-badge&logo=platform&logoColor=00FFFF)
 
 ---
 
@@ -105,63 +101,46 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
-│  NODE ECOSYSTEM                    PHP ECOSYSTEM                    │
-│  ──────────────                    ─────────────                    │
-│  ▸ Node.js                         ▸ Laravel                        │
-│  ▸ Express.js                                                       │
-│  ▸ Bun.js                                                           │
-│  ▸ Elysia.js                                                        │
+│  ECOSYSTEM A                       ECOSYSTEM B                      │
+│  ────────────                      ────────────                    │
+│  ▸ Tool                            ▸ Tool                           │
+│  ▸ Tool                                                             │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
-![Bun](https://img.shields.io/badge/Bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=F9F1E1)
-![Elysia](https://img.shields.io/badge/Elysia.js-0a0a0a?style=for-the-badge&logo=elysia&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Badge](https://img.shields.io/badge/Backend-0a0a0a?style=for-the-badge&logo=backend&logoColor=339933)
 
 ---
 
 ## `[ 07 ]` — DATABASE SYSTEMS
 
 ```text
-  RELATIONAL ─────────  MySQL · PostgreSQL · SQLite
-  NoSQL ──────────────  MongoDB · Firebase
-  IN-MEMORY / CACHE ──  Upstash (Redis)
-  SCHEMA-FREE ────────  JSON
+  RELATIONAL ─────────  DB · DB · DB
+  NoSQL ──────────────  DB · DB
+  IN-MEMORY / CACHE ──  DB
+  SCHEMA-FREE ────────  Format
 ```
 
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Upstash](https://img.shields.io/badge/Upstash-0a0a0a?style=for-the-badge&logo=upstash&logoColor=00E9A3)
+![Badge](https://img.shields.io/badge/Database-0a0a0a?style=for-the-badge&logo=database&logoColor=00FFFF)
 
 ---
 
 ## `[ 08 ]` — UI FRAMEWORKS & TOOLING
 
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-0a0a0a?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+![Badge](https://img.shields.io/badge/CSS-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Badge](https://img.shields.io/badge/Framework-0a0a0a?style=for-the-badge&logo=framework&logoColor=00FFFF)
 
 ---
 
 ## `[ 09 ]` — DESIGN & MULTIMEDIA
 
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0a0a0a?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=F24E1E)
 
 ---
 
 ## `[ 10 ]` — API & TESTING TOOLS
 
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-0a0a0a?style=for-the-badge&logo=thunderclient&logoColor=00FFFF)
-![Swagger](https://img.shields.io/badge/Swagger-0a0a0a?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Badge](https://img.shields.io/badge/Tool-0a0a0a?style=for-the-badge&logo=tool&logoColor=FF6C37)
 
 ---
 
@@ -178,40 +157,33 @@
   ┌──────────────────────────────────────────────────────────────┐
   │  DEPLOYMENT GRID                                             │
   │                                                              │
-  │  ▸ Vercel          → Frontend / Next.js                      │
-  │  ▸ Netlify         → Static / JAMstack                       │
-  │  ▸ Render          → Backend Services                        │
-  │  ▸ Hostinger       → Full Hosting                            │
-  │  ▸ cPanel          → Shared Hosting                          │
-  │  ▸ GitHub Pages    → Static Sites                            │
+  │  ▸ Platform        → Purpose                                │
+  │  ▸ Platform        → Purpose                                │
+  │  ▸ Platform        → Purpose                                │
   └──────────────────────────────────────────────────────────────┘
 ```
 
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Hostinger](https://img.shields.io/badge/Hostinger-0a0a0a?style=for-the-badge&logo=hostinger&logoColor=673DE6)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0a0a0a?style=for-the-badge&logo=github-pages&logoColor=ffffff)
+![Badge](https://img.shields.io/badge/Host-0a0a0a?style=for-the-badge&logo=host&logoColor=ffffff)
 
 ---
 
 ## `[ 13 ]` — GITHUB METRICS
 
 <div align="center">
-  
+
 <!-- Glassmorphism Stats & Streak Dashboard -->
 <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&bg_color=00000040&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_color=00FFFF40&border_radius=10" height="170" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=00000040&border=00FFFF40&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=ffffff&sideNums=00FFFF&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" alt="GitHub Streak" />
 
 </div>
 
-@@ -137,9 +245,6 @@
+---
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║   > SYSTEM STATUS: ONLINE                                          ║
+║   > READY TO COLLABORATE                                            ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
-
-
-
 
 </div>
