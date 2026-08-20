@@ -8,6 +8,10 @@
 
 <br/>
 
+![Handle](https://img.shields.io/badge/GITHUB-M4RKBELLO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)
+
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday.)
 
 <br/>
