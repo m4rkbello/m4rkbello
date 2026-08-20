@@ -1,331 +1,158 @@
-@@ -1,276 +1,188 @@
 <div align="center">
-
-
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                    HERO HEADER BANNER                      -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MARK%20BELLO&fontSize=90&fontAlignY=45&fontColor=ffffff&desc=%3E_%20FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descSize=16&descAlignY=68&descColor=00e5ff&animation=twinkling&stroke=ff10f0&strokeWidth=2" width="100%"/>
-
-
-
-<!-- STATUS INDICATORS -->
-<img src="https://img.shields.io/badge/◉_STATUS-ONLINE-ff10f0?style=flat-square&labelColor=0a0010&color=0a0010"/>
-<img src="https://img.shields.io/badge/⚡_MODE-FULL--STACK-00e5ff?style=flat-square&labelColor=0a0010&color=0a0010"/>
-<img src="https://img.shields.io/badge/📡_SIGNAL-STRONG-ff10f0?style=flat-square&labelColor=0a0010&color=0a0010"/>
-<img src="https://img.shields.io/badge/🛸_LOCATION-PH-00e5ff?style=flat-square&labelColor=0a0010&color=0a0010"/>
-
-<br/><br/>
-
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=FF10F0&center=true&vCenter=true&width=700&height=50&lines=%3E+Initializing+developer+profile...;%3E+Loading+React+%2B+Laravel+modules...;%3E+Deploying+to+production...;%3E+%22Better+than+yesterday%22+—+always." alt="Typing SVG"/>
-
-</div>
-
----
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                    SYSTEM BOOT TERMINAL                    -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
+```text
+███╗   ███╗ █████╗ ██████╗ ██╗  ██╗    	██████╗ 	███████╗██╗     ██╗     ██████╗
+████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔════╝██║     ██║     ██╔══██╗
+██╔████╔██║███████║██████╔╝█████╔╝     ██████╔╝█████╗  ██║     ██║     ██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██╔═██╗     ██╔══██╗██╔══╝  ██║     ██║     ██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██╗    	██████╔╝███████╗███████╗███████╗╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    	╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              M4RK.DEV — DEVELOPER INSTANCE v2.0              ║
-╠══════════════════════════════════════════════════════════════╣
-║  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% BOOT COMPLETE       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-```ts
-/**
- * @system     M4RK.DEV  —  Developer Instance
- * @version    2.0.0
- * @status     ONLINE ◉
- */
-
-interface Developer {
-  name     : string;
-  role     : string;
-  location : string;
-  stack    : string[];
-  learning : string[];
-  motto    : string;
-}
-
-const markBello: Developer = {
-  name     : "Mark Bello",
-  role     : "Full-Stack Developer",
-  location : "🇵🇭 Philippines",
-  stack    : ["React", "Laravel", "Node.js", "React Native"],
-  learning : ["Mobile Architecture", "JS Backend Systems"],
-  motto    : "You do not need to be perfect. Just better than yesterday."
-};
-
-export default markBello;  // ← actively shipping ⚡
-```
-
----
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                     GITHUB ANALYTICS                       -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### `// 01 — SYSTEM ANALYTICS`
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&theme=tokyonight&border_color=ff10f0&bg_color=0D0720&title_color=ff10f0&icon_color=00e5ff&text_color=c9b8e8&hide_border=false&rank_icon=github&count_private=true&card_width=420" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&theme=tokyonight&border_color=00e5ff&bg_color=0D0720&title_color=00e5ff&text_color=c9b8e8&hide_border=false&card_width=360" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=m4rkbello&theme=tokyonight&border=ff10f0&background=0D0720&stroke=ff10f0&ring=ff10f0&fire=00e5ff&currStreakLabel=ff10f0&sideLabels=c9b8e8&dates=6a5a80&sideNums=00e5ff&currStreakNum=ff10f0" width="68%"/>
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-### `// 02 — COMMIT SIGNAL MAP`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=0D0720&color=ff10f0&line=00e5ff&point=ffffff&area_color=ff10f0&area=true&hide_border=false&border_color=ff10f0&title_color=00e5ff&radius=4" width="100%"/>
-
-</div>
-
-
-
-
-
-
----
-
-<!-- TROPHIES -->
-<div align="center">
-
-### `// 03 — ACHIEVEMENT NODES`
-
-<img src="https://github-profile-trophy.vercel.app/?username=m4rkbello&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Reviews" width="100%"/>
-
-</div>
-
-
-
----
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                      TECH STACK                           -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-### `// 04 — TECH STACK MANIFEST`
-
-</div>
-
-```
-LAYER MAP ─────────────────────────────────────────────────────
-
-
-
-
-
-
-
-
-  [LANGUAGES]      JS  ──  TS  ──  PHP
-        ↓
-  [FRONTEND]       React · Next · Vite · Tailwind · shadcn · Mantine
-        ↓
-  [STATE]          Redux Toolkit · TanStack Query · Zustand · Axios
-        ↓
-  [BACKEND]        Laravel · Node.js · Express · ElysiaJS · Bun
-        ↓
-  [DATABASE]       MySQL · PostgreSQL · MongoDB · Firebase · SQLite
-        ↓
-  [MOBILE]         React Native · Expo
-        ↓
-  [DEPLOY]         Vercel · Netlify · Render · Hostinger · cPanel
-
-───────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-
-**`// LANGUAGES`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=0D0720)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-
-**`// FRONTEND`**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=0D0720)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-%23339AF0.svg?style=for-the-badge&logo=mantine&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**`// STATE MANAGEMENT`**
-
-
-
-
-
-
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
-
-**`// BACKEND`**
-
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-%23000000.svg?style=for-the-badge&logo=elysia&logoColor=white)
-
-
-
-
-**`// DATABASES`**
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-%2300E9A3.svg?style=for-the-badge&logo=upstash&logoColor=0D0720)
-
-**`// MOBILE`**
-
-
-
-
-
-
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=0D0720)
-![Expo](https://img.shields.io/badge/Expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
-
-**`// HOSTING & DEPLOYMENT`**
-
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=0D0720)
-![Hostinger](https://img.shields.io/badge/Hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)
-
-**`// DESIGN & TOOLS`**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-%23F7C948.svg?style=for-the-badge&logo=thunderclient&logoColor=0D0720)
-
-</div>
-
-
-
-
-
-
-
----
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                   ARCHITECTURE TABLE                       -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-### `// 05 — SYSTEM ARCHITECTURE`
-
-| ⚙️ Layer | 🔷 Technologies |
-|:---|:---|
-| `FRONTEND` | React.js · Next.js · TypeScript · TailwindCSS · Vite |
-| `STATE` | Redux Toolkit · TanStack Query · Zustand · Axios |
-| `BACKEND` | Laravel · Node.js · Express.js · ElysiaJS · Bun |
-| `DATABASE` | MySQL · PostgreSQL · MongoDB · Firebase · SQLite · Upstash |
-| `MOBILE` | React Native · Expo |
-| `DESIGN` | Figma · Photoshop · Illustrator |
-| `DEPLOY` | Vercel · Netlify · Render · Hostinger · cPanel · GH Pages |
-
----
-
-<!-- ██████████████████████████████████████████████████████████ -->
-<!--                   CONNECT / SOCIAL                         -->
-<!-- ██████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-
-
-
-
-### `// 06 — ESTABLISH CONNECTION`
-
-```
-╔════════════════════════════════════════════════════════╗
-║    SELECT A CHANNEL TO INITIATE CONTACT                ║
-╚════════════════════════════════════════════════════════╝
-```
-
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-m4rkbello-ff10f0?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0720)](https://github.com/m4rkbello)
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-markamarcortejo...-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0720)](mailto:markamarcortejopanesbello@gmail.com)
-[![YouTube](https://img.shields.io/badge/◈_YOUTUBE-@m4rkbello-ff10f0?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D0720)](https://www.youtube.com/@m4rkbello)
-[![Dev.to](https://img.shields.io/badge/◈_DEV.TO-@m4rkbello-00e5ff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D0720)](https://dev.to/m4rkbello)
-
+<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%;"/>
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&style=for-the-badge&color=ff10f0&labelColor=0D0720&label=NEURAL+LINK+VISITS)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday.)
+<br/>
+[![GitHub](https://img.shields.io/badge/⬡_GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/m4rkbello) [![Gmail](https://img.shields.io/badge/⬡_Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00FFFF)](mailto:markamarcortejopanesbello@gmail.com) [![YouTube](https://img.shields.io/badge/⬡_YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=00FFFF)](https://www.youtube.com/@m4rkbello) [![Dev.to](https://img.shields.io/badge/⬡_Dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=00FFFF)](https://dev.to/m4rkbello)
 </div>
 
-
-
-
+---
+<div align="center">
+```text
+╔══════════════════════════════════════════════════════════╗
+║  ░░  SYSTEM IDENTITY — MARK BELLO  ░░                    ║
+║  ─────────────────────────────────────────────────────   ║
+║  > CLASS     : Full-Stack Web & Mobile Developer         ║
+║  > LOCATION  : Philippines                               ║
+║  > CORE      : React · Laravel · TypeScript              ║
+║  > EXPANDING : Mobile Dev · Web Dev · API Systems        ║
+║  > MISSION   : Clean Architecture & Continuous Growth    ║
+╚══════════════════════════════════════════════════════════╝
+```
+</div>
 
 ---
-
-<!-- FOOTER BANNER -->
-<div align="center">
-
-
-
-
-
-
-
-
-
+## `[ 01 ]` — CORE STACK · FULL-STACK SPA
+> **React** + **TailwindCSS** + **DaisyUI** + **Axios** + **Redux** + **Laravel** + **MySQL**
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  FRONTEND                        BACKEND                            │
+│  ─────────                       ───────                            │
+│  ▸ React.js19        ────────▶   ▸ Laravel (API / Web routes)       │
+│  ▸ TailwindCSS       ────────▶   ▸ MySQL                            │
+│  ▸ DaisyUI           ────────▶   ▸ RESTful Architecture             │
+│  ▸ Axios             ────────▶   ▸ Sanctum / Passport Auth          │
+│  ▸ Redux Toolkit                                                    │
+└─────────────────────────────────────────────────────────────────────┘
 ```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF) ![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20) ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF) ![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=5A29E4) ![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+---
+## `[ 02 ]` — PROGRAMMING LANGUAGES
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6) ![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=777BB4)
+
+---
+## `[ 03 ]` — REACT / TYPESCRIPT ECOSYSTEM
+```text
+┌── BUILD TOOLS ──────────────────────────────────────────────────────┐
+│  ▸ Vite          ▸ Create React App       ▸ Next.js                 │
+├── UI COMPONENT LIBRARIES ───────────────────────────────────────────┤
+│  ▸ shadcn/ui     ▸ Mantine                ▸ React Bootstrap         │
+└─────────────────────────────────────────────────────────────────────┘
+```
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF) ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=ffffff) ![Mantine](https://img.shields.io/badge/Mantine-0a0a0a?style=for-the-badge&logo=mantine&logoColor=339AF0) ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+---
+## `[ 04 ]` — STATE MANAGEMENT MATRIX
+```text
+  Redux ──────────────── Classic · Predictable · Battle-Tested
+  Redux Toolkit ──────── Modern Redux · Simplified Boilerplate
+  TanStack Query ─────── Async State · Server Sync · Caching
+  Zustand ────────────── Lightweight · Minimal · Scalable
+```
+![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-0a0a0a?style=for-the-badge&logo=reactquery&logoColor=FF4154) ![Zustand](https://img.shields.io/badge/Zustand-0a0a0a?style=for-the-badge&logo=zustand&logoColor=00FFFF)
+
+---
+## `[ 05 ]` — MOBILE DEVELOPMENT
+```text
+  ┌─────────────────────────────────┐
+  │  📱 MOBILE INTERFACE LAYER       │
+  │  ▸ React Native Cli             │
+  │  ▸ React Native Expo            │
+  └─────────────────────────────────┘
+```
+![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=00FFFF) ![Expo](https://img.shields.io/badge/Expo-0a0a0a?style=for-the-badge&logo=expo&logoColor=ffffff)
+
+---
+## `[ 06 ]` — BACKEND SYSTEMS
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  NODE ECOSYSTEM                    PHP ECOSYSTEM                    │
+│  ──────────────                    ─────────────                    │
+│  ▸ Node.js                         ▸ Laravel                        │
+│  ▸ Express.js                                                       │
+│  ▸ Bun.js                                                           │
+│  ▸ Elysia.js                                                        │
+└─────────────────────────────────────────────────────────────────────┘
+```
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff) ![Bun](https://img.shields.io/badge/Bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=F9F1E1) ![Elysia](https://img.shields.io/badge/Elysia.js-0a0a0a?style=for-the-badge&logo=elysia&logoColor=ffffff) ![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+
+---
+## `[ 07 ]` — DATABASE SYSTEMS
+```text
+  RELATIONAL ─────────  MySQL · PostgreSQL · SQLite
+  NoSQL ──────────────  MongoDB · Firebase
+  IN-MEMORY / CACHE ──  Upstash (Redis)
+  SCHEMA-FREE ────────  JSON
+```
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=003B57) ![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![Upstash](https://img.shields.io/badge/Upstash-0a0a0a?style=for-the-badge&logo=upstash&logoColor=00E9A3)
+
+---
+## `[ 08 ]` — UI FRAMEWORKS & TOOLING
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF) ![DaisyUI](https://img.shields.io/badge/DaisyUI-0a0a0a?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+
+---
+## `[ 09 ]` — DESIGN & MULTIMEDIA
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0a0a0a?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
+
+---
+## `[ 10 ]` — API & TESTING TOOLS
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-0a0a0a?style=for-the-badge&logo=thunderclient&logoColor=00FFFF) ![Swagger](https://img.shields.io/badge/Swagger-0a0a0a?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+
+---
+## `[ 11 ]` — VERSION CONTROL
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)
+
+---
+## `[ 12 ]` — HOSTING & DEPLOYMENT
+```text
+  ┌──────────────────────────────────────────────────────────────┐
+  │  DEPLOYMENT GRID                                             │
+  │                                                              │
+  │  ▸ Vercel          → Frontend / Next.js                      │
+  │  ▸ Netlify         → Static / JAMstack                       │
+  │  ▸ Render          → Backend Services                        │
+  │  ▸ Hostinger       → Full Hosting                            │
+  │  ▸ cPanel          → Shared Hosting                          │
+  │  ▸ GitHub Pages    → Static Sites                            │
+  └──────────────────────────────────────────────────────────────┘
+```
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff) ![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=46E3B7) ![Hostinger](https://img.shields.io/badge/Hostinger-0a0a0a?style=for-the-badge&logo=hostinger&logoColor=673DE6) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0a0a0a?style=for-the-badge&logo=github-pages&logoColor=ffffff)
+
+---
+## `[ 13 ]` — GITHUB METRICS
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=m4rkbello&theme=dark&hide_border=true&background=0a0a0a&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
+</div>
+
+---
+<div align="center">
+```text
 ╔══════════════════════════════════════════════════════════════════╗
-║    "You do not need to be perfect.                               ║
-║     You just need to be better than yesterday."   — Mark Bello  ║
+║                                                                  ║
+║   "You do not need to be perfect.                                ║
+║    You just need to be better than yesterday."                   ║
+║                                                                  ║
+║                                              — Mark Bello        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=ALWAYS%20SHIPPING%20%E2%9A%A1&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&stroke=00e5ff&strokeWidth=1" width="100%"/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
