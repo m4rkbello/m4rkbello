@@ -1,13 +1,7 @@
 <div align="center">
 
-```text
- __  __          _____  _  __  ____  ______ _      _      ____  
-|  \/  |   /\   |  __ \| |/ / |  _ \|  ____| |    | |    / __ \ 
-| \  / |  /  \  | |__) | ' /  | |_) | |__  | |    | |   | |  | |
-| |\/| | / /\ \ |  _  /|  <   |  _ <|  __| | |    | |   | |  | |
-| |  | |/ ____ \| | \ \| . \  | |_) | |____| |____| |___| |__| |
-|_|  |_/_/    \_\_|  \_\_|\_\ |____/|______|______|______\____/ 
-```
+<!-- Big Centered Banner Header (Green/Black) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=80&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00" width="100%"/>
 
 <!-- Glassmorphism Avatar Frame -->
 <img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="130" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.4); background: rgba(0,255,0,0.05); padding: 8px;"/>
@@ -202,12 +196,27 @@
 
 <div align="center">
 
-<!-- Green/Black Stats & Streak Dashboard -->
+<!-- Stats & Streak Dashboard -->
 <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=ffffff&sideNums=00FF00&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" alt="GitHub Streak" />
 
-<!-- Green contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" width="90%" alt="Contribution Graph" />
+<br/>
+
+<!-- Full Commit Contribution Calendar -->
+<img src="https://ghchart.rshah.org/00FF00/m4rkbello" width="90%" alt="Commit Contribution Calendar" />
+
+<br/>
+
+<!-- Weekly / Monthly Commit Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" width="90%" alt="Contribution Activity Graph" />
+
+<br/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&border_color=00FF0040&border_radius=10&hide_border=false" height="170" alt="Top Languages" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=m4rkbello&theme=matrix&no-frame=true&row=1&column=6" width="90%" alt="GitHub Trophies" />
 
 </div>
 
@@ -216,6 +225,8 @@
 ║  STATUS: ONLINE   ·   MODE: FULL-STACK   ·   BUILD: PASSING       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
 
