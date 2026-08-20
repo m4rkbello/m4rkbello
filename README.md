@@ -1,21 +1,24 @@
+<div align="center">
 
 ```text
-███╗  ███╗ █████╗ ██████╗ ██╗  ██╗    ██████╗ ███████╗██╗     ██╗      ██████╗
-████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝    ██╔══██╗██╔════╝██║     ██║     ██╔═══██╗
-@@ -14,11 +9,11 @@
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝
+ __  __          _____  _  __  ____  ______ _      _      ____  
+|  \/  |   /\   |  __ \| |/ / |  _ \|  ____| |    | |    / __ \ 
+| \  / |  /  \  | |__) | ' /  | |_) | |__  | |    | |   | |  | |
+| |\/| | / /\ \ |  _  /|  <   |  _ <|  __| | |    | |   | |  | |
+| |  | |/ ____ \| | \ \| . \  | |_) | |____| |____| |___| |__| |
+|_|  |_/_/    \_\_|  \_\_|\_\ |____/|______|______|______\____/ 
 ```
 
 <!-- Glassmorphism Avatar Frame -->
-<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="130" style="border-radius: 50%; border: 2px solid rgba(0,255,255,0.4); background: rgba(0,255,255,0.05); padding: 8px;"/>
+<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="130" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.4); background: rgba(0,255,0,0.05); padding: 8px;"/>
 
 <br/>
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday.)
 
 <br/>
-@@ -50,76 +45,189 @@
+
+</div>
 
 ---
 
@@ -35,20 +38,20 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=5A29E4)
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![Axios](https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=00FF00)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF00)
 
 ---
 
 ## `[ 02 ]` — PROGRAMMING LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=777BB4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00)
 
 ---
 
@@ -62,16 +65,15 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0a0a0a?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
-![Mantine](https://img.shields.io/badge/Mantine-0a0a0a?style=for-the-badge&logo=mantine&logoColor=339AF0)
-![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF00)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=00FF00)
+![Mantine](https://img.shields.io/badge/Mantine-000000?style=for-the-badge&logo=mantine&logoColor=00FF00)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00)
 
 ---
 
 ## `[ 04 ]` — STATE MANAGEMENT MATRIX
-
 
 ```text
   Redux ──────────────── Classic · Predictable · Battle-Tested
@@ -80,10 +82,10 @@
   Zustand ────────────── Lightweight · Minimal · Scalable
 ```
 
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0a0a0a?style=for-the-badge&logo=redux&logoColor=764ABC)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-0a0a0a?style=for-the-badge&logo=reactquery&logoColor=FF4154)
-![Zustand](https://img.shields.io/badge/Zustand-0a0a0a?style=for-the-badge&logo=zustand&logoColor=00FFFF)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF00)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=00FF00)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=00FF00)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=00FF00)
 
 ---
 
@@ -97,8 +99,8 @@
   └─────────────────────────────────┘
 ```
 
-![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=00FFFF)
-![Expo](https://img.shields.io/badge/Expo-0a0a0a?style=for-the-badge&logo=expo&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF00)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00FF00)
 
 ---
 
@@ -115,11 +117,11 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
-![Bun](https://img.shields.io/badge/Bun-0a0a0a?style=for-the-badge&logo=bun&logoColor=F9F1E1)
-![Elysia](https://img.shields.io/badge/Elysia.js-0a0a0a?style=for-the-badge&logo=elysia&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=00FF00)
+![Elysia](https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=elysia&logoColor=00FF00)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00)
 
 ---
 
@@ -132,44 +134,44 @@
   SCHEMA-FREE ────────  JSON
 ```
 
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=00FFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Upstash](https://img.shields.io/badge/Upstash-0a0a0a?style=for-the-badge&logo=upstash&logoColor=00E9A3)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00FF00)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00)
+![Upstash](https://img.shields.io/badge/Upstash-000000?style=for-the-badge&logo=upstash&logoColor=00FF00)
 
 ---
 
 ## `[ 08 ]` — UI FRAMEWORKS & TOOLING
 
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=00FFFF)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-0a0a0a?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=00FF00)
 
 ---
 
 ## `[ 09 ]` — DESIGN & MULTIMEDIA
 
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0a0a0a?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-0a0a0a?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=00FF00)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=00FF00)
 
 ---
 
 ## `[ 10 ]` — API & TESTING TOOLS
 
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-0a0a0a?style=for-the-badge&logo=thunderclient&logoColor=00FFFF)
-![Swagger](https://img.shields.io/badge/Swagger-0a0a0a?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF00)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge&logo=thunderclient&logoColor=00FF00)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=00FF00)
 
 ---
 
 ## `[ 11 ]` — VERSION CONTROL
 
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)
 
 ---
 
@@ -188,31 +190,33 @@
   └──────────────────────────────────────────────────────────────┘
 ```
 
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Hostinger](https://img.shields.io/badge/Hostinger-0a0a0a?style=for-the-badge&logo=hostinger&logoColor=673DE6)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0a0a0a?style=for-the-badge&logo=github-pages&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF00)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF00)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FF00)
+![Hostinger](https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=00FF00)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github-pages&logoColor=00FF00)
 
 ---
 
 ## `[ 13 ]` — GITHUB METRICS
 
 <div align="center">
-  
-<!-- Glassmorphism Stats & Streak Dashboard -->
-<img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&bg_color=00000040&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&border_color=00FFFF40&border_radius=10" height="170" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=00000040&border=00FFFF40&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=ffffff&sideNums=00FFFF&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" alt="GitHub Streak" />
+
+<!-- Green/Black Stats & Streak Dashboard -->
+<img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=ffffff&sideNums=00FF00&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" alt="GitHub Streak" />
+
+<!-- Green contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" width="90%" alt="Contribution Graph" />
 
 </div>
 
-@@ -137,9 +245,6 @@
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  STATUS: ONLINE   ·   MODE: FULL-STACK   ·   BUILD: PASSING       ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=m4rkbello&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
