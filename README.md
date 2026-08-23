@@ -28,7 +28,7 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │  FRONTEND                        BACKEND                            │
 │  ─────────                       ───────                            │
-│  ▸ React.js19         ────────▶  ▸ Laravel (API / Web routes)       │
+│  ▸ React.js 19        ────────▶  ▸ Laravel (API / Web routes)       │
 │  ▸ TailwindCSS        ────────▶  ▸ MySQL                            │
 │  ▸ DaisyUI            ────────▶  ▸ RESTful Architecture             │
 │  ▸ Axios              ────────▶  ▸ Sanctum / Passport Auth          │
@@ -37,7 +37,7 @@
 ```
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00)
 ![Axios](https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=00FF00)
@@ -64,7 +64,7 @@
 ```
 
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF00)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF00)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=00FF00)
 ![Mantine](https://img.shields.io/badge/Mantine-000000?style=for-the-badge&logo=mantine&logoColor=00FF00)
 ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00)
@@ -115,7 +115,7 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=00FF00)
 ![Elysia](https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=elysia&logoColor=00FF00)
@@ -145,7 +145,7 @@
 
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=00FF00)
 
 ---
@@ -153,8 +153,8 @@
 ## `[ 09 ]` — DESIGN & MULTIMEDIA
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=00FF00)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=00FF00)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00FF00)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00FF00)
 
 ---
 
@@ -192,7 +192,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF00)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FF00)
 ![Hostinger](https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=00FF00)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=github-pages&logoColor=00FF00)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=for-the-badge&logo=githubpages&logoColor=00FF00)
 
 ---
 
@@ -225,9 +225,9 @@
 </div>
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════════════╗
 ║  STATUS: ONLINE   ·   MODE: FULL-STACK   ·   BUILD: PASSING       ║
-╚══════════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
