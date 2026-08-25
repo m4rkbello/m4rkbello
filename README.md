@@ -1,15 +1,11 @@
 <div align="center">
 
-<a href="https://github.com/m4rkbello">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00" width="100%"/>
-  </picture>
-</a>
+<h1>MARK BELLO</h1>
+<h3>Full-Stack Web & Mobile Developer</h3>
 
-<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.8); background: rgba(0,255,0,0.1); padding: 5px; margin-top: -60px; position: relative; box-shadow: 0 0 15px rgba(0,255,0,0.3);"/>
+<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.8); background: rgba(0,255,0,0.1); padding: 5px; position: relative; box-shadow: 0 0 15px rgba(0,255,0,0.3); margin-top: 10px; margin-bottom: 20px;"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/m4rkbello">
   <img src="https://img.shields.io/badge/GITHUB-M4RKBELLO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000" />
@@ -17,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+Laravel+%7C+TypeScript;Building+the+Future%2C+One+Commit+at+a+Time;You+just+need+to+be+better+than+yesterday." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time;React+%7C+Laravel+%7C+TypeScript;You+just+need+to+be+better+than+yesterday." />
 
 </div>
 
@@ -169,41 +165,7 @@
   <img src="https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=00FF00" />
 </div>
 
----
-
-### `[ 10 ]` 📊 GITHUB METRICS & TELEMETRY
-
-<div align="center">
-
-<!-- Responsive Stat Cards (Naturally Wraps) -->
-<a href="https://github.com/m4rkbello">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" />
-</a>
-<a href="https://github.com/m4rkbello">
-  <img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=ffffff&sideNums=00FF00&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" />
-</a>
-
 <br/><br/>
-
-<!-- Full Width Analytics -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" style="max-width: 100%; height: auto;" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/00FF00/m4rkbello" style="max-width: 100%; height: auto;" />
-
-<br/><br/>
-
-<!-- Language Distribution & Trophies -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&border_color=00FF0040&border_radius=10&hide_border=false" style="max-width: 100%; height: auto;" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=m4rkbello&theme=matrix&no-frame=true&row=1&column=6" style="max-width: 100%; height: auto;" />
-
-</div>
-
-<br/>
 
 ```text
 ╔═══════════════════════════════════════════════════════════════════╗
