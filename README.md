@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=You+don't+need+to+be+perfect.;You+just+need+to+be+better+than+yesterday.;React+%7C+Laravel+%7C+TypeScript" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=You+don%27t+need+to+be+perfect.;You+just+need+to+be+better+than+yesterday.;React+%7C+Laravel+%7C+TypeScript" />
 
 </div>
 
@@ -168,9 +168,9 @@
 
 <div align="center">
 
-<!-- General GitHub Stats (Includes PRs/Merges, Issues, and Commits) -->
+<!-- General GitHub Stats (count_private=true removed to fix error) -->
 <a href="https://github.com/m4rkbello">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" />
 </a>
 
 <!-- GitHub Streak Stats -->
