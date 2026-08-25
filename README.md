@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time;React+%7C+Laravel+%7C+TypeScript;You+just+need+to+be+better+than+yesterday." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=You+don't+need+to+be+perfect.;You+just+need+to+be+better+than+yesterday.;React+%7C+Laravel+%7C+TypeScript" />
 
 </div>
 
@@ -163,6 +163,39 @@
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=00FF00" />
+</div>
+
+---
+
+### `[ 10 ]` 📊 GITHUB METRICS & TELEMETRY
+
+<div align="center">
+
+<!-- General GitHub Stats (Includes PRs/Merges, Issues, and Commits) -->
+<a href="https://github.com/m4rkbello">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/m4rkbello">
+  <img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=ffffff&sideNums=00FF00&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" />
+</a>
+
+<br/><br/>
+
+<!-- Telemetry Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" style="max-width: 100%; height: auto;" />
+
+<br/><br/>
+
+<!-- Pulls, Pushes, and Commits Grid (Contribution Graph) -->
+<img src="https://ghchart.rshah.org/00FF00/m4rkbello" style="max-width: 100%; height: auto;" />
+
+<br/><br/>
+
+<!-- Top Languages Used -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&border_color=00FF0040&border_radius=10&hide_border=false" style="max-width: 100%; height: auto;" />
+
 </div>
 
 <br/><br/>
