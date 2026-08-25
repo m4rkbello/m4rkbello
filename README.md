@@ -1,8 +1,5 @@
 <div align="center">
 
-<h1>MARK BELLO</h1>
-<h3>Full-Stack Web & Mobile Developer</h3>
-
 <img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.8); background: rgba(0,255,0,0.1); padding: 5px; position: relative; box-shadow: 0 0 15px rgba(0,255,0,0.3); margin-top: 10px; margin-bottom: 20px;"/>
 
 <br/>
