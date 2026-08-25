@@ -9,7 +9,7 @@
 </a>
 
 <!-- Glassmorphism Avatar Frame -->
-<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.6); background: rgba(0,255,0,0.1); padding: 5px; margin-top: -60px; position: relative;" alt="Mark Bello Avatar"/>
+<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.6); background: rgba(0,255,0,0.1); padding: 5px; margin-top: -60px; position: relative;"/>
 
 <br/><br/>
 
