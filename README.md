@@ -4,7 +4,7 @@
 <a href="https://github.com/m4rkbello">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00" width="100%" alt="Mark Bello - Full Stack Developer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=MARK%20BELLO&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=62&descSize=20&descColor=00FF00" width="100%"/>
   </picture>
 </a>
 
