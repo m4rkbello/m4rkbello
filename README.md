@@ -31,15 +31,15 @@
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│  USER          : M4RKBELLO                                  │
+│  USER          : M4RKBELLO                                 │
 │  BACKGROUND    : SOFTWARE ENGINEERING                      │
 │  TRANSITION    : AI SYSTEMS ENGINEERING                    │
-│  SPECIALIZATION: AGENTIC AI & MCP                           │
+│  SPECIALIZATION: AGENTIC AI & MCP                          │
 │  RESEARCH      : MACHINE LEARNING & EDGE AI                │
 │  HARDWARE      : AIoT & INTELLIGENT DEVICES                │
 │  SECURITY      : ETHICAL HACKING & CYBERSECURITY           │
-│  CREATIVE      : MUSIC PRODUCTION & REMIXING                │
-│  MINDSET       : LEARN · EXPERIMENT · BUILD · INNOVATE      │
+│  CREATIVE      : MUSIC PRODUCTION & REMIXING               │
+│  MINDSET       : LEARN · EXPERIMENT · BUILD · INNOVATE     │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
