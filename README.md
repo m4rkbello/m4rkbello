@@ -1,203 +1,112 @@
-<div align="center">
+# Hi, I'm Mark 👋
 
-<img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" style="border-radius: 50%; border: 2px solid rgba(0,255,0,0.8); background: rgba(0,255,0,0.1); padding: 5px; position: relative; box-shadow: 0 0 15px rgba(0,255,0,0.3); margin-top: 10px; margin-bottom: 20px;"/>
+I build web and mobile apps, mostly with **React** on the front and **Laravel** on the back. I like clean code, fast pages, and shipping things people actually use.
 
-<br/>
+> You don't need to be perfect. You just need to be better than yesterday.
 
-<a href="https://github.com/m4rkbello">
-  <img src="https://img.shields.io/badge/GITHUB-M4RKBELLO-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=You+don%27t+need+to+be+perfect.;You+just+need+to+be+better+than+yesterday.;React+%7C+Laravel+%7C+TypeScript" />
-
-</div>
+<p>
+  <a href="https://github.com/m4rkbello?tab=repositories">All my repositories</a>
+</p>
 
 ---
 
-> 💻 **`SYS.INFO`** // Architecting scalable web applications and mobile experiences with modern ecosystems. Driven by performance, clean code, and relentless optimization. 
+## What I work with
 
-### `[ 01 ]` ⚡ CORE STACK & ARCHITECTURE
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-| 🖥️ Frontend Client | 🔗 Data Flow | ⚙️ Backend API |
-| :--- | :---: | :--- |
-| ▸ React.js 19<br/>▸ TailwindCSS<br/>▸ DaisyUI<br/>▸ Axios<br/>▸ Redux Toolkit | ────────▶<br/>*RESTful Architecture* | ▸ Laravel (API / Web routes)<br/>▸ MySQL<br/>▸ Sanctum / Passport Auth |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF00" />
-</div>
-
----
-
-### `[ 02 ]` 🌐 PROGRAMMING LANGUAGES
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00" />
-</div>
+**Front end:** React 19, TypeScript, Vite, Next.js, Tailwind, DaisyUI, shadcn/ui, Mantine
+**State:** Redux Toolkit, TanStack Query, Zustand
+**Mobile:** React Native (CLI and Expo)
+**Back end:** Laravel (Sanctum / Passport), Node, Express, Bun, Elysia
+**Data:** MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Upstash Redis
+**Tools:** Git, Postman, Swagger, Figma, Vercel, Netlify, Render
 
 ---
 
-### `[ 03 ]` ⚛️ REACT & TYPESCRIPT ECOSYSTEM
+## Projects
 
-| 🏗️ Build Tools & Frameworks | 🎨 UI Component Libraries |
-| :--- | :--- |
-| ▸ Vite<br/>▸ Next.js<br/>▸ Create React App | ▸ shadcn/ui<br/>▸ Mantine<br/>▸ React Bootstrap |
+These cards pull from GitHub live, so the stars, forks, language and description update on their own.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Mantine-000000?style=for-the-badge&logo=mantine&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/React_Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-1&theme=github_dark&hide_border=false" alt="REPO-1" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-1.com">🔗 Live demo</a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-2&theme=github_dark&hide_border=false" alt="REPO-2" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-2.com">🔗 Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-3&theme=github_dark&hide_border=false" alt="REPO-3" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-3.com">🔗 Live demo</a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-4&theme=github_dark&hide_border=false" alt="REPO-4" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-4.com">🔗 Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-5&theme=github_dark&hide_border=false" alt="REPO-5" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-5.com">🔗 Live demo</a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/m4rkbello/REPO-6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4rkbello&repo=REPO-6&theme=github_dark&hide_border=false" alt="REPO-6" />
+      </a>
+      <br/>
+      <a href="https://your-live-demo-6.com">🔗 Live demo</a>
+    </td>
+  </tr>
+</table>
 
----
-
-### `[ 04 ]` 🧠 STATE MANAGEMENT MATRIX
-
-| Library | Characteristics |
-| :--- | :--- |
-| **Redux** | Classic · Predictable · Battle-Tested |
-| **Redux Toolkit** | Modern Redux · Simplified Boilerplate |
-| **TanStack Query** | Async State · Server Sync · Caching |
-| **Zustand** | Lightweight · Minimal · Scalable |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=00FF00" />
-</div>
-
----
-
-### `[ 05 ]` 📱 MOBILE DEVELOPMENT
-
-> **Mobile Interface Layer** ▸ React Native CLI · React Native Expo
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00FF00" />
-</div>
-
----
-
-### `[ 06 ]` ⚙️ BACKEND SYSTEMS
-
-| 🟢 Node.js Ecosystem | 🐘 PHP Ecosystem |
-| :--- | :--- |
-| ▸ Node.js<br/>▸ Express.js<br/>▸ Bun.js<br/>▸ Elysia.js | ▸ Laravel |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Elysia.js-000000?style=for-the-badge&logo=elysia&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00" />
-</div>
-
----
-
-### `[ 07 ]` 🗄️ DATABASE SYSTEMS
-
-| Type | Technologies |
-| :--- | :--- |
-| **Relational** | MySQL · PostgreSQL · SQLite |
-| **NoSQL** | MongoDB · Firebase |
-| **In-Memory / Cache** | Upstash (Redis) |
-| **Schema-Free** | JSON |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Upstash-000000?style=for-the-badge&logo=upstash&logoColor=00FF00" />
-</div>
+<!--
+HOW TO ADD ANOTHER PROJECT
+Copy one <td> block and change REPO-X to the exact repository name.
+Delete the "Live demo" line if the project has no deployed site.
+Works for public repos only.
+-->
 
 ---
 
-### `[ 08 ]` 🎨 UI FRAMEWORKS, DESIGN & MULTIMEDIA
+## GitHub activity
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00" />
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00FF00" />
-</div>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
-### `[ 09 ]` 🚀 VERSION CONTROL, DEPLOYMENT & TESTING
+## Get in touch
 
-| Platform | Deployment Target / Use Case |
-| :--- | :--- |
-| **Vercel** | Frontend / Next.js Applications |
-| **Netlify / GitHub Pages** | Static Sites / JAMstack |
-| **Render** | Backend Services & APIs |
-| **Hostinger / cPanel** | Full Stack & Shared Hosting |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=00FF00" />
-  <br/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=00FF00" />
-</div>
-
----
-
-### `[ 10 ]` 📊 GITHUB METRICS & TELEMETRY
-
-<div align="center">
-
-<!-- General GitHub Stats (count_private=true removed to fix error) -->
-<a href="https://github.com/m4rkbello">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=00FF0040&border_radius=10" height="170" />
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/m4rkbello">
-  <img src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=false&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=ffffff&sideNums=00FF00&sideLabels=ffffff&dates=ffffff&border_radius=10" height="170" />
-</a>
-
-<br/><br/>
-
-<!-- Telemetry Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=ffffff&area=true&area_color=00FF00&hide_border=true" style="max-width: 100%; height: auto;" />
-
-<br/><br/>
-
-<!-- Pulls, Pushes, and Commits Grid (Contribution Graph) -->
-<img src="https://ghchart.rshah.org/00FF00/m4rkbello" style="max-width: 100%; height: auto;" />
-
-<br/><br/>
-
-<!-- Top Languages Used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&border_color=00FF0040&border_radius=10&hide_border=false" style="max-width: 100%; height: auto;" />
-
-</div>
-
-<br/><br/>
-
-```text
-╔═══════════════════════════════════════════════════════════════════╗
-║  STATUS: ONLINE   ·   MODE: FULL-STACK   ·   BUILD: PASSING       ║
-╚═══════════════════════════════════════════════════════════════════╝
+- GitHub: [@m4rkbello](https://github.com/m4rkbello)
+- Add your email, LinkedIn, or portfolio link here
