@@ -1,188 +1,200 @@
-div align="center"><img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="120" alt="M4RKBELLO Logo" />M4RKBELLO
+<div align="center"><img src="https://i.ibb.co/PsjwxPq4/m4rktriangle.png" width="104" alt="M4RKBELLO logo" />M4RKBELLO
 SOFTWARE ENGINEER · AI SYSTEMS ENGINEER
-BUILDING INTELLIGENT SYSTEMS. CONNECTING AI WITH THE REAL WORLD.
-“You don't need to be perfect. You just need to be better than yesterday.”
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Exploring+Artificial+Intelligence.;Building+MCP+Servers+%26+AI+Agents.;Designing+Agentic+Workflows.;Developing+Machine+Learning+Systems.;Connecting+AI+With+Hardware+%26+IoT.;Engineering+The+Future." />
+Engineering software. Exploring intelligence. Connecting it to the real world.
+
+<p>
+  <em>“You don't need to be perfect.<br />You just need to be better than yesterday.”</em>
+</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Exploring+Artificial+Intelligence;Building+MCP+Servers+%26+AI+Agents;Designing+Agentic+Workflows;Experimenting+with+Machine+Learning;Connecting+AI+with+Hardware+%26+IoT" alt="Currently exploring: AI, MCP, agentic workflows, machine learning and AIoT" />
 <a href="https://github.com/m4rkbello">
-<img src="https://img.shields.io/badge/GITHUB-M4RKBELLO-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/GitHub- M4RKBELLO-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AGENTIC%20SYSTEMS-161B22?style=flat-square&labelColor=161B22" alt="AI and agentic systems" />
+<img src="https://img.shields.io/badge/BUILDING-AIoT-161B22?style=flat-square&labelColor=161B22" alt="AIoT" /></div>01 — About
+I'm a software engineer expanding my work toward AI Systems Engineering. My interests sit at the intersection of application development, intelligent agents, machine learning, and connected hardware.
 
+I enjoy understanding how systems work, experimenting with emerging technologies, and turning ideas into practical software.
+CURRENT PATH
+Software Engineering
+       ↓
+Artificial Intelligence & LLMs
+       ↓
+MCP Servers · AI Agents · Agentic Workflows
+       ↓
+Machine Learning · Edge AI
+       ↓
+Intelligent Hardware · IoT
+02 — Current Engineering Focus
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ AI & Agentic Engineering</h3>
+      Building applications that can reason, use tools, and coordinate tasks.
+      <ul>
+        <li>LLMs and AI-powered applications</li>
+        <li>Model Context Protocol (MCP)</li>
+        <li>MCP servers, clients, tools and resources</li>
+        <li>Autonomous and multi-agent systems</li>
+        <li>Agentic workflow orchestration</li>
+        <li>Retrieval-Augmented Generation (RAG)</li>
+        <li>Tool calling, memory and context</li>
+        <li>Human-in-the-loop systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Machine Learning</h3>
+      Exploring data-driven models and intelligent applications.
+      <ul>
+        <li>Supervised and unsupervised learning</li>
+        <li>Neural networks and deep learning</li>
+        <li>Natural language processing</li>
+        <li>Computer vision</li>
+        <li>Predictive analytics</li>
+        <li>Data preparation and feature engineering</li>
+        <li>Model training and evaluation</li>
+        <li>Model deployment and inference</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ AI Hardware, Robotics & IoT</h3>
+      Connecting intelligent software to the physical world.
+      <ul>
+        <li>Arduino, ESP32 and Raspberry Pi</li>
+        <li>NVIDIA Jetson and edge computing</li>
+        <li>AI-powered IoT devices</li>
+        <li>Smart sensors and embedded systems</li>
+        <li>On-device inference and Edge AI</li>
+        <li>MQTT and real-time sensor data</li>
+        <li>Hardware/software integration</li>
+        <li>Robotics and intelligent automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◈ Software & Security</h3>
+      Applying full-stack engineering practices to reliable applications.
+      <ul>
+        <li>Web and mobile application development</li>
+        <li>Backend systems and API integration</li>
+        <li>Database design and infrastructure</li>
+        <li>Application and network security</li>
+        <li>Penetration testing in authorized labs</li>
+        <li>UI engineering and prototyping</li>
+        <li>Linux and development tooling</li>
+        <li>Creative technology and music production</li>
+      </ul>
+    </td>
+  </tr>
+</table>03 — Technology Stack
+Technologies I work with, have explored, or am currently learning.
+AI, LLMs & Agentic Systems
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-20232A?style=flat-square&logo=crewai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat-square&logo=llamaindex&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-34495E?style=flat-square" alt="Model Context Protocol" />
+</p>Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>Machine Learning & Data
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" alt="Remix" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/CoreUI-321FDB?style=flat-square&logo=coreui&logoColor=white" alt="CoreUI" />
+</p>Backend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</p>Hardware, IoT & Edge
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>Databases & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>Security & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/FL_Studio-FF8C00?style=flat-square&logo=flstudio&logoColor=white" alt="FL Studio" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+</p>04 — What I'm Working Toward
+[01] UNDERSTAND   → AI, LLMs & MODEL ARCHITECTURES
+[02] CONNECT      → MCP SERVERS, CLIENTS & TOOLS
+[03] ORCHESTRATE  → AUTONOMOUS AGENTS & WORKFLOWS
+[04] EXPERIMENT   → MACHINE LEARNING & DEEP LEARNING
+[05] DEPLOY       → EDGE AI & ON-DEVICE INFERENCE
+[06] INTEGRATE    → INTELLIGENT HARDWARE & IoT
+The vision: Build intelligent systems that can reason, use tools, collaborate, learn from data, and interact with the physical world.
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-000000?style=flat-square&logo=openai&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/FOCUS-AGENTIC_SYSTEMS-000000?style=flat-square&logo=langchain&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/FOCUS-MACHINE_LEARNING-000000?style=flat-square&logo=pytorch&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/FOCUS-AIOT-000000?style=flat-square&logo=arduino&logoColor=00FF00"/></div>01 / SYSTEM PROFILE
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  USER          : M4RKBELLO                                  │
-│  BACKGROUND    : SOFTWARE ENGINEERING                      │
-│  TRANSITION    : AI SYSTEMS ENGINEERING                    │
-│  SPECIALIZATION: AGENTIC AI & MCP                           │
-│  RESEARCH      : MACHINE LEARNING & EDGE AI                │
-│  HARDWARE      : AIoT & INTELLIGENT DEVICES                │
-│  SECURITY      : ETHICAL HACKING & CYBERSECURITY           │
-│  CREATIVE      : MUSIC PRODUCTION & REMIXING                │
-│  MINDSET       : LEARN · EXPERIMENT · BUILD · INNOVATE      │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-Software engineer transitioning toward AI Systems Engineering. Exploring Model Context Protocol, autonomous AI agents, agentic workflows, machine learning, intelligent hardware, and Internet of Things. Combining software engineering with intelligent systems to build practical solutions for real-world problems.
-
-02 / ARTIFICIAL INTELLIGENCE & AGENTIC ENGINEERING
-Exploring intelligent systems, autonomous agents, tool orchestration, and AI-powered applications.
-AI & LLM Ecosystem
-<div align="center"><img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00FF00"/></div>MCP — Model Context Protocol
-<div align="center"><img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=serverfault&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Tool_Integration-000000?style=for-the-badge&logo=githubactions&logoColor=00FF00"/></div>Areas of focus
-- MCP Server Development
-- MCP Client Integration
-- Tools, Resources & Prompts
-- AI Tool Calling
-- Context Management
-- External API Integration
-- Secure Agent-to-Tool Communication
-Agentic AI & Workflow Orchestration
-<div align="center"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=microsoft&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=00FF00"/></div>Areas of focus
-- Autonomous AI Agents
-- Multi-Agent Systems
-- Agentic Workflow Automation
-- Retrieval-Augmented Generation (RAG)
-- AI Memory & Context
-- Human-in-the-Loop Workflows
-- Function Calling & Tool Execution
-- AI Workflow Orchestration
-03 / MACHINE LEARNING & DEEP LEARNING
-Exploring intelligent models, predictive systems, data processing, and neural networks.
-<div align="center"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF00"/></div>
-Research & Development Areas
-- Supervised & Unsupervised Learning
-- Neural Networks
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Predictive Analytics
-- Model Training & Evaluation
-- Data Preparation & Feature Engineering
-- Model Deployment & Inference
-04 / AI HARDWARE, ROBOTICS & IoT
-Connecting intelligent software with physical devices, sensors, microcontrollers, and edge computing.
-Hardware & Microcontrollers
-<div align="center"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-000000?style=for-the-badge&logo=nvidia&logoColor=00FF00"/></div>IoT & Edge AI Technologies
-<div align="center"><img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=eclipse-mosquitto&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Home_Assistant-000000?style=for-the-badge&logo=homeassistant&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Edge_AI-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/></div>Areas of exploration
-- AI-Powered IoT Devices
-- Smart Sensors & Embedded Systems
-- Edge AI & On-Device Inference
-- Hardware-Software Integration
-- Real-Time Sensor Data Processing
-- MQTT Communication
-- Intelligent Automation
-- Computer Vision on Edge Devices
-- Robotics & Autonomous Systems
-05 / PROGRAMMING LANGUAGES
-<div align="center"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00"/></div>06 / WEB & MOBILE ENGINEERING
-Frontend & UI Frameworks
-<div align="center"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Mantine-000000?style=for-the-badge&logo=mantine&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/DaisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Ant_Design-000000?style=for-the-badge&logo=antdesign&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radixui&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/CoreUI-000000?style=for-the-badge&logo=coreui&logoColor=00FF00"/></div>Backend & Application Development
-<div align="center"><img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF00"/></div>07 / DATABASE & INFRASTRUCTURE
-<div align="center"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00FF00"/></div>08 / CYBERSECURITY & ETHICAL HACKING
-Security Research · Penetration Testing · Vulnerability Assessment
-<div align="center"><img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/></div>- Web Application Security
-- SQL Injection & XSS Testing
-- Network Discovery & Scanning
-- Password Security Auditing
-- Honeypots & Threat Monitoring
-- DDoS Resilience & Mitigation
-Security research and testing in authorized environments only.
-
-09 / CREATIVE TECHNOLOGY & MUSIC PRODUCTION
-<div align="center"><img src="https://img.shields.io/badge/FL_Studio-000000?style=for-the-badge&logo=flstudio&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00FF00"/></div>Music Production · Remixing · Audio Editing · Sound Design
-10 / GITHUB ANALYTICS
+05 — GitHub Activity
 <div align="center"><a href="https://github.com/m4rkbello">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF0040&border_radius=12"/>
-</a><a href="https://github.com/m4rkbello">
-<img height="170" src="https://streak-stats.demolab.com?user=m4rkbello&background=000000&border=00FF0040&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&sideLabels=FFFFFF&dates=FFFFFF&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m4rkbello&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=58A6FF&icon_color=58A6FF" alt="M4RKBELLO GitHub statistics" />
 </a>
-
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00&hide_border=true"/>
-
-
-<img width="95%" src="https://ghchart.rshah.org/00FF00/m4rkbello"/>
-
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&bg_color=000000&title_color=00FF00&text_color=FFFFFF&border_color=00FF0040&border_radius=12"/></div>11 / CURRENT ENGINEERING DIRECTION
-[01] EXPLORE      -> ARTIFICIAL INTELLIGENCE
-[02] BUILD        -> MCP SERVERS & AI AGENTS
-[03] ORCHESTRATE  -> AGENTIC WORKFLOWS
-[04] EXPERIMENT   -> MACHINE LEARNING
-[05] CONNECT      -> AI HARDWARE & IoT
-[06] INNOVATE     -> INTELLIGENT REAL-WORLD SYSTEMS
-The Vision
-Building intelligent systems that can reason, use tools, collaborate, learn from data, and interact with the physical world.
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FF00&center=true&vCenter=true&width=750&lines=LEARN.+BUILD.+INNOVATE.;FROM+SOFTWARE+TO+INTELLIGENT+SYSTEMS.;FROM+AI+AGENTS+TO+REAL+WORLD+HARDWARE.;THE+FUTURE+IS+INTELLIGENT."/>
-
-
-“You don't need to be perfect. You just need to be better than yesterday.”
+<a href="https://github.com/m4rkbello">
+  <img height="165" src="https://streak-stats.demolab.com?user=m4rkbello&hide_border=true&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="M4RKBELLO GitHub streak" />
+</a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=m4rkbello&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="M4RKBELLO contribution activity graph" />
+<img width="90%" src="https://ghchart.rshah.org/58A6FF/m4rkbello" alt="M4RKBELLO contribution calendar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rkbello&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF" alt="Most used programming languages" /></div><div align="center">LEARN · BUILD · IMPROVE · INNOVATE
 Don't just build software. Build intelligence.
 
-M4RKBELLO
+“You don't need to be perfect. You just need to be better than yesterday.”
 
-AI ENGINEERING · AGENTIC SYSTEMS · MACHINE LEARNING · AIoT
+<a href="https://github.com/m4rkbello">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
+</a>
 
-<a href="https://github.com/m4rkbello">EXPLORE MY GITHUB</a>
+
+<sub>M4RKBELLO · SOFTWARE ENGINEERING × INTELLIGENT SYSTEMS</sub>
 </div>
