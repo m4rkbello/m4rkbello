@@ -367,12 +367,37 @@ Building intelligent systems that can reason, use tools, collaborate, learn from
 
 <br/><br/>
 
-### "Don't just build software. Build intelligence."
+<div align="center">
+
+<br />
+
+### "You don't need to be perfect. You just need to be better than yesterday."
 
 **M4RKBELLO**
 
-AI ENGINEERING · AGENTIC SYSTEMS · MACHINE LEARNING · AIoT
+FULL-STACK SOFTWARE ENGINEER → ASPIRING AI ENGINEER
 
-<a href="https://github.com/m4rkbello">EXPLORE MY GITHUB</a>
+<br />
+
+Building on my experience in Full-Stack Software Engineering,  
+I'm now expanding my expertise and focusing on the next frontier of technology:
+
+**AI ENGINEERING · AI AUTOMATION · AGENTIC WORKFLOWS · MCP · MACHINE LEARNING · AIoT**
+
+<br />
+
+**Mark 09:23 · Mark 11:24 🤍**
+
+<br />
+
+<a href="https://github.com/m4rkbello">
+  EXPLORE MY GITHUB
+</a>
+
+<br /><br />
+
+<sub>LEARN · BUILD · AUTOMATE · INNOVATE</sub>
+
+</div>
 
 </div>
